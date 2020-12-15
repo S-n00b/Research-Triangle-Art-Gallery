@@ -1,0 +1,1082 @@
+country code;postal code;place name;admin name1;admin code1;admin name2;admin code2;admin name3;admin code3;latitude;longitude;accuracy;coordinates
+US;27349;Snow Camp;North Carolina;NC;Alamance;001;;;35.9066;-79.4279;4;35.9066,-79.4279
+US;28678;Stony Point;North Carolina;NC;Alexander;003;;;35.8661;-81.0641;4;35.8661,-81.0641
+US;28675;Sparta;North Carolina;NC;Alleghany;005;;;36.5089;-81.1384;4;36.5089,-81.1384
+US;28626;Fleetwood;North Carolina;NC;Ashe;009;;;36.2814;-81.514;4;36.2814,-81.514
+US;28640;Jefferson;North Carolina;NC;Ashe;009;;;36.409;-81.4396;4;36.409,-81.4396
+US;28644;Laurel Springs;North Carolina;NC;Ashe;009;;;36.4449;-81.2606;4;36.4449,-81.2606
+US;27821;Edward;North Carolina;NC;Beaufort;013;;;35.3236;-76.8794;4;35.3236,-76.8794
+US;27872;Roxobel;North Carolina;NC;Bertie;015;;;36.195;-77.2602;4;36.195,-77.2602
+US;27957;Merry Hill;North Carolina;NC;Bertie;015;;;36.0871;-76.7776;4;36.0871,-76.7776
+US;28399;White Oak;North Carolina;NC;Bladen;017;;;34.7662;-78.7301;4;34.7662,-78.7301
+US;28422;Bolivia;North Carolina;NC;Brunswick;019;;;34.026;-78.1681;4;34.026,-78.1681
+US;28451;Leland;North Carolina;NC;Brunswick;019;;;34.268;-78.0578;4;34.268,-78.0578
+US;28748;Leicester;North Carolina;NC;Buncombe;021;;;35.6498;-82.7106;4;35.6498,-82.7106
+US;28802;Asheville;North Carolina;NC;Buncombe;021;;;35.6237;-82.6671;4;35.6237,-82.6671
+US;28806;Asheville;North Carolina;NC;Buncombe;021;;;35.5808;-82.6078;4;35.5808,-82.6078
+US;28619;Drexel;North Carolina;NC;Burke;023;;;35.7579;-81.6043;4;35.7579,-81.6043
+US;28107;Midland;North Carolina;NC;Cabarrus;025;;;35.2477;-80.5319;4;35.2477,-80.5319
+US;27974;Shiloh;North Carolina;NC;Camden;029;;;36.2584;-76.0432;4;36.2584,-76.0432
+US;28577;Sealevel;North Carolina;NC;Carteret;031;;;34.8769;-76.3898;4;34.8769,-76.3898
+US;27311;Pelham;North Carolina;NC;Caswell;033;;;36.4899;-79.4736;4;36.4899,-79.4736
+US;27344;Siler City;North Carolina;NC;Chatham;037;;;35.7354;-79.4566;4;35.7354,-79.4566
+US;28090;Lawndale;North Carolina;NC;Cleveland;045;;;35.4449;-81.5336;4;35.4449,-81.5336
+US;28463;Tabor City;North Carolina;NC;Columbus;047;;;34.1233;-78.8232;4;34.1233,-78.8232
+US;28564;New Bern;North Carolina;NC;Craven;049;;;35.1109;-77.0634;4;35.1109,-77.0634
+US;28303;Fayetteville;North Carolina;NC;Cumberland;051;;;35.0742;-78.965;4;35.0742,-78.965
+US;28331;Cumberland;North Carolina;NC;Cumberland;051;;;35.0049;-78.9673;4;35.0049,-78.9673
+US;28356;Linden;North Carolina;NC;Cumberland;051;;;35.2276;-78.8004;4;35.2276,-78.8004
+US;27923;Coinjock;North Carolina;NC;Currituck;053;;;36.3751;-75.934;4;36.3751,-75.934
+US;27941;Harbinger;North Carolina;NC;Currituck;053;;;36.1025;-75.8169;4;36.1025,-75.8169
+US;27956;Maple;North Carolina;NC;Currituck;053;;;36.3987;-76.0039;4;36.3987,-76.0039
+US;27704;Durham;North Carolina;NC;Durham;063;;;36.0383;-78.8764;4;36.0383,-78.8764
+US;27710;Durham;North Carolina;NC;Durham;063;;;36.0512;-78.8577;4;36.0512,-78.8577
+US;27711;Durham;North Carolina;NC;Durham;063;;;36.0512;-78.8577;4;36.0512,-78.8577
+US;27809;Battleboro;North Carolina;NC;Edgecombe;065;;;36.0067;-77.7074;4;36.0067,-77.7074
+US;27009;Belews Creek;North Carolina;NC;Forsyth;067;;;36.2269;-80.093;4;36.2269,-80.093
+US;27114;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0999;-80.2442;4;36.0999,-80.2442
+US;28016;Bessemer City;North Carolina;NC;Gaston;071;;;35.2849;-81.2863;4;35.2849,-81.2863
+US;27926;Corapeake;North Carolina;NC;Gates;073;;;36.5179;-76.5979;4;36.5179,-76.5979
+US;27509;Butner;North Carolina;NC;Granville;077;;;36.1359;-78.7636;4;36.1359,-78.7636
+US;27527;Clayton;North Carolina;NC;Granville;077;;;35.6577;-78.3837;4;35.6577,-78.3837
+US;27582;Stovall;North Carolina;NC;Granville;077;;;36.4482;-78.5703;4;36.4482,-78.5703
+US;27265;High Point;North Carolina;NC;Guilford;081;;;36.0036;-80.0036;4;36.0036,-80.0036
+US;27357;Stokesdale;North Carolina;NC;Guilford;081;;;36.2552;-79.9705;4;36.2552,-79.9705
+US;27407;Greensboro;North Carolina;NC;Guilford;081;;;36.0334;-79.8626;4;36.0334,-79.8626
+US;27874;Scotland Neck;North Carolina;NC;Halifax;083;;;36.1301;-77.4273;4;36.1301,-77.4273
+US;27890;Weldon;North Carolina;NC;Halifax;083;;;36.4206;-77.6035;4;36.4206,-77.6035
+US;28339;Erwin;North Carolina;NC;Harnett;085;;;35.3287;-78.6859;4;35.3287,-78.6859
+US;28710;Bat Cave;North Carolina;NC;Henderson;089;;;35.4515;-82.2871;4;35.4515,-82.2871
+US;28739;Hendersonville;North Carolina;NC;Henderson;089;;;35.3192;-82.5;4;35.3192,-82.5
+US;28117;Mooresville;North Carolina;NC;Iredell;097;;;35.584;-80.8685;4;35.584,-80.8685
+US;28123;Mount Mourne;North Carolina;NC;Iredell;097;;;35.5432;-80.8473;4;35.5432,-80.8473
+US;28723;Cullowhee;North Carolina;NC;Jackson;099;;;35.2409;-83.1475;4;35.2409,-83.1475
+US;28789;Whittier;North Carolina;NC;Jackson;099;;;35.4469;-83.2872;4;35.4469,-83.2872
+US;27557;Middlesex;North Carolina;NC;Johnston;101;;;35.7665;-78.2062;4;35.7665,-78.2062
+US;27569;Princeton;North Carolina;NC;Johnston;101;;;35.4558;-78.1674;4;35.4558,-78.1674
+US;28555;Maysville;North Carolina;NC;Jones;103;;;34.8691;-77.2315;4;34.8691,-77.2315
+US;28761;Nebo;North Carolina;NC;McDowell;111;;;35.6732;-81.9056;4;35.6732,-81.9056
+US;28734;Franklin;North Carolina;NC;Macon;113;;;35.181;-83.3885;4;35.181,-83.3885
+US;27825;Everetts;North Carolina;NC;Martin;117;;;35.8349;-77.1736;4;35.8349,-77.1736
+US;28202;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.229;-80.8419;4;35.229,-80.8419
+US;28226;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.0869;-80.8167;4;35.0869,-80.8167
+US;28228;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28231;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28241;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28247;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.0656;-80.8511;4;35.0656,-80.8511
+US;28266;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28280;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28282;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2242;-80.8447;4;35.2242,-80.8447
+US;28284;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28288;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;27247;Ether;North Carolina;NC;Montgomery;123;;;35.4514;-79.7834;4;35.4514,-79.7834
+US;27868;Red Oak;North Carolina;NC;Nash;127;;;36.0548;-77.9116;4;36.0548,-77.9116
+US;28401;Wilmington;North Carolina;NC;New Hanover;129;;;34.2257;-77.9447;4;34.2257,-77.9447
+US;28544;Midway Park;North Carolina;NC;Onslow;133;;;34.727;-77.32;4;34.727,-77.32
+US;28574;Richlands;North Carolina;NC;Onslow;133;;;34.8624;-77.5863;4;34.8624,-77.5863
+US;28421;Atkinson;North Carolina;NC;Pender;141;;;34.5304;-78.1671;4;34.5304,-78.1671
+US;27919;Belvidere;North Carolina;NC;Perquimans;143;;;36.3096;-76.5436;4;36.3096,-76.5436
+US;27343;Semora;North Carolina;NC;Person;145;;;36.5114;-79.0942;4;36.5114,-79.0942
+US;28530;Grifton;North Carolina;NC;Pitt;147;;;35.3757;-77.4193;4;35.3757,-77.4193
+US;28590;Winterville;North Carolina;NC;Pitt;147;;;35.5336;-77.391;4;35.5336,-77.391
+US;28359;Lumberton;North Carolina;NC;Robeson;155;;;34.6077;-79.0144;4;34.6077,-79.0144
+US;28384;Saint Pauls;North Carolina;NC;Robeson;155;;;34.801;-78.9731;4;34.801,-78.9731
+US;28088;Landis;North Carolina;NC;Rowan;159;;;35.5435;-80.6129;4;35.5435,-80.6129
+US;28024;Cliffside;North Carolina;NC;Rutherford;161;;;35.2416;-81.7755;4;35.2416,-81.7755
+US;28076;Henrietta;North Carolina;NC;Rutherford;161;;;35.2579;-81.7962;4;35.2579,-81.7962
+US;27042;Pine Hall;North Carolina;NC;Stokes;169;;;36.3482;-80.0495;4;36.3482,-80.0495
+US;27030;Mount Airy;North Carolina;NC;Surry;171;;;36.5007;-80.6119;4;36.5007,-80.6119
+US;27584;Townsville;North Carolina;NC;Vance;181;;;36.4946;-78.4236;4;36.4946,-78.4236
+US;27529;Garner;North Carolina;NC;Wake;183;;;35.6813;-78.5975;4;35.6813,-78.5975
+US;27615;Raleigh;North Carolina;NC;Wake;183;;;35.8887;-78.6393;4;35.8887,-78.6393
+US;27617;Raleigh;North Carolina;NC;Wake;183;;;35.9034;-78.7447;4;35.9034,-78.7447
+US;27636;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27690;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27699;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27928;Creswell;North Carolina;NC;Washington;187;;;35.8653;-76.4196;4;35.8653,-76.4196
+US;27970;Roper;North Carolina;NC;Washington;187;;;35.8994;-76.5809;4;35.8994,-76.5809
+US;28605;Blowing Rock;North Carolina;NC;Watauga;189;;;36.1355;-81.6996;4;36.1355,-81.6996
+US;28692;Vilas;North Carolina;NC;Watauga;189;;;36.2574;-81.7652;4;36.2574,-81.7652
+US;28656;North Wilkesboro;North Carolina;NC;Wilkes;193;;;36.2384;-81.046;4;36.2384,-81.046
+US;28685;Traphill;North Carolina;NC;Wilkes;193;;;36.3301;-81.0151;4;36.3301,-81.0151
+US;28697;Wilkesboro;North Carolina;NC;Wilkes;193;;;36.1359;-81.1573;4;36.1359,-81.1573
+US;27822;Elm City;North Carolina;NC;Wilson;195;;;35.811;-77.856;4;35.811,-77.856
+US;27020;Hamptonville;North Carolina;NC;Yadkin;197;;;36.1242;-80.8137;4;36.1242,-80.8137
+US;28740;Green Mountain;North Carolina;NC;Yancey;199;;;35.9937;-82.259;4;35.9937,-82.259
+US;27201;Alamance;North Carolina;NC;Alamance;001;;;36.0318;-79.4856;4;36.0318,-79.4856
+US;27244;Elon;North Carolina;NC;Alamance;001;;;36.1029;-79.5067;4;36.1029,-79.5067
+US;27253;Graham;North Carolina;NC;Alamance;001;;;36.031;-79.3814;4;36.031,-79.3814
+US;28643;Lansing;North Carolina;NC;Ashe;009;;;36.5176;-81.5269;4;36.5176,-81.5269
+US;28653;Montezuma;North Carolina;NC;Avery;011;;;36.0651;-81.9017;4;36.0651,-81.9017
+US;28462;Supply;North Carolina;NC;Brunswick;019;;;34.0231;-78.2884;4;34.0231,-78.2884
+US;28701;Alexander;North Carolina;NC;Buncombe;021;;;35.7064;-82.6311;4;35.7064,-82.6311
+US;28776;Skyland;North Carolina;NC;Buncombe;021;;;35.4835;-82.5207;4;35.4835,-82.5207
+US;28671;Rutherford College;North Carolina;NC;Burke;023;;;35.7485;-81.5226;4;35.7485,-81.5226
+US;28124;Mount Pleasant;North Carolina;NC;Cabarrus;025;;;35.4146;-80.4171;4;35.4146,-80.4171
+US;28579;Smyrna;North Carolina;NC;Carteret;031;;;34.7593;-76.5274;4;34.7593,-76.5274
+US;28581;Stacy;North Carolina;NC;Carteret;031;;;34.8412;-76.4289;4;34.8412,-76.4289
+US;27228;Bynum;North Carolina;NC;Chatham;037;;;35.7835;-79.1298;4;35.7835,-79.1298
+US;27252;Goldston;North Carolina;NC;Chatham;037;;;35.5643;-79.3385;4;35.5643,-79.3385
+US;28017;Boiling Springs;North Carolina;NC;Cleveland;045;;;35.2543;-81.667;4;35.2543,-81.667
+US;28523;Cove City;North Carolina;NC;Craven;049;;;35.2023;-77.2963;4;35.2023,-77.2963
+US;28342;Falcon;North Carolina;NC;Cumberland;051;;;35.1899;-78.6483;4;35.1899,-78.6483
+US;27936;Frisco;North Carolina;NC;Dare;055;;;35.2338;-75.6145;4;35.2338,-75.6145
+US;27968;Rodanthe;North Carolina;NC;Dare;055;;;35.5935;-75.4679;4;35.5935,-75.4679
+US;27972;Salvo;North Carolina;NC;Dare;055;;;35.5546;-75.4693;4;35.5546,-75.4693
+US;28521;Chinquapin;North Carolina;NC;Duplin;061;;;34.8276;-77.7636;4;34.8276,-77.7636
+US;27852;Macclesfield;North Carolina;NC;Edgecombe;065;;;35.751;-77.6706;4;35.751,-77.6706
+US;27010;Bethania;North Carolina;NC;Forsyth;067;;;36.183;-80.3387;4;36.183,-80.3387
+US;27099;Rural Hall;North Carolina;NC;Forsyth;067;;;36.2404;-80.2934;4;36.2404,-80.2934
+US;27116;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0999;-80.2442;4;36.0999,-80.2442
+US;27130;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27155;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27508;Bunn;North Carolina;NC;Franklin;069;;;35.9577;-78.2498;4;35.9577,-78.2498
+US;28053;Gastonia;North Carolina;NC;Gaston;071;;;35.2751;-81.2134;4;35.2751,-81.2134
+US;28056;Gastonia;North Carolina;NC;Gaston;071;;;35.2172;-81.1252;4;35.2172,-81.1252
+US;27574;Roxboro;North Carolina;NC;Granville;077;;;36.3942;-78.9863;4;36.3942,-78.9863
+US;27888;Walstonburg;North Carolina;NC;Greene;079;;;35.5882;-77.6983;4;35.5882,-77.6983
+US;27260;High Point;North Carolina;NC;Guilford;081;;;35.954;-79.9884;4;35.954,-79.9884
+US;27264;High Point;North Carolina;NC;Guilford;081;;;36.0807;-80.0244;4;36.0807,-80.0244
+US;27282;Jamestown;North Carolina;NC;Guilford;081;;;35.999;-79.9293;4;35.999,-79.9293
+US;27283;Julian;North Carolina;NC;Guilford;081;;;35.9543;-79.6386;4;35.9543,-79.6386
+US;27405;Greensboro;North Carolina;NC;Guilford;081;;;36.1214;-79.7733;4;36.1214,-79.7733
+US;27429;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27839;Halifax;North Carolina;NC;Halifax;083;;;36.3049;-77.5607;4;36.3049,-77.5607
+US;27870;Roanoke Rapids;North Carolina;NC;Halifax;083;;;36.4461;-77.6731;4;36.4461,-77.6731
+US;27543;Kipling;North Carolina;NC;Harnett;085;;;35.4799;-78.8211;4;35.4799,-78.8211
+US;27922;Cofield;North Carolina;NC;Hertford;091;;;36.3333;-76.8746;4;36.3333,-76.8746
+US;27826;Fairfield;North Carolina;NC;Hyde;095;;;35.5659;-76.2318;4;35.5659,-76.2318
+US;28736;Glenville;North Carolina;NC;Jackson;099;;;35.1882;-83.09;4;35.1882,-83.09
+US;27857;Oak City;North Carolina;NC;Martin;117;;;35.9597;-77.3004;4;35.9597,-77.3004
+US;28203;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2081;-80.8583;4;35.2081,-80.8583
+US;28214;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2731;-80.9571;4;35.2731,-80.9571
+US;28217;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1714;-80.9084;4;35.1714,-80.9084
+US;28233;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28263;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2268;-80.8432;4;35.2268,-80.8432
+US;28705;Bakersville;North Carolina;NC;Mitchell;121;;;36.0286;-82.1711;4;36.0286,-82.1711
+US;28394;Vass;North Carolina;NC;Moore;125;;;35.2171;-79.2562;4;35.2171,-79.2562
+US;27804;Rocky Mount;North Carolina;NC;Nash;127;;;35.9904;-77.8468;4;35.9904,-77.8468
+US;27878;Sharpsburg;North Carolina;NC;Nash;127;;;35.8654;-77.8389;4;35.8654,-77.8389
+US;27882;Spring Hope;North Carolina;NC;Nash;127;;;35.9302;-78.1085;4;35.9302,-78.1085
+US;28405;Wilmington;North Carolina;NC;New Hanover;129;;;34.2651;-77.867;4;34.2651,-77.867
+US;27845;Jackson;North Carolina;NC;Northampton;131;;;36.3896;-77.4214;4;36.3896,-77.4214
+US;27231;Cedar Grove;North Carolina;NC;Orange;135;;;36.202;-79.1666;4;36.202,-79.1666
+US;28587;Vandemere;North Carolina;NC;Pamlico;137;;;35.1913;-76.6604;4;35.1913,-76.6604
+US;27907;Elizabeth City;North Carolina;NC;Pasquotank;139;;;36.285;-76.2553;4;36.285,-76.2553
+US;28457;Rocky Point;North Carolina;NC;Pender;141;;;34.4344;-77.9234;4;34.4344,-77.9234
+US;27944;Hertford;North Carolina;NC;Perquimans;143;;;36.1685;-76.3731;4;36.1685,-76.3731
+US;27350;Sophia;North Carolina;NC;Randolph;151;;;35.8298;-79.8986;4;35.8298,-79.8986
+US;28364;Maxton;North Carolina;NC;Robeson;155;;;34.7334;-79.3097;4;34.7334,-79.3097
+US;28372;Pembroke;North Carolina;NC;Robeson;155;;;34.6902;-79.1834;4;34.6902,-79.1834
+US;28138;Rockwell;North Carolina;NC;Rowan;159;;;35.5494;-80.4226;4;35.5494,-80.4226
+US;28018;Bostic;North Carolina;NC;Rutherford;161;;;35.4533;-81.8118;4;35.4533,-81.8118
+US;28746;Lake Lure;North Carolina;NC;Rutherford;161;;;35.4464;-82.1752;4;35.4464,-82.1752
+US;27007;Ararat;North Carolina;NC;Surry;171;;;36.3859;-80.5895;4;36.3859,-80.5895
+US;28713;Bryson City;North Carolina;NC;Swain;173;;;35.4241;-83.4392;4;35.4241,-83.4392
+US;28708;Balsam Grove;North Carolina;NC;Transylvania;175;;;35.2298;-82.8779;4;35.2298,-82.8779
+US;27925;Columbia;North Carolina;NC;Tyrrell;177;;;35.9057;-76.2345;4;35.9057,-76.2345
+US;28112;Monroe;North Carolina;NC;Union;179;;;34.8946;-80.554;4;34.8946,-80.554
+US;27519;Cary;North Carolina;NC;Wake;183;;;35.8072;-78.887;4;35.8072,-78.887
+US;27526;Fuquay Varina;North Carolina;NC;Wake;183;;;35.58;-78.7908;4;35.58,-78.7908
+US;27591;Wendell;North Carolina;NC;Wake;183;;;35.798;-78.3926;4;35.798,-78.3926
+US;27619;Raleigh;North Carolina;NC;Wake;183;;;35.8515;-78.6314;4;35.8515,-78.6314
+US;27627;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27668;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27570;Ridgeway;North Carolina;NC;Warren;185;;;36.4357;-78.2367;4;36.4357,-78.2367
+US;27586;Vaughan;North Carolina;NC;Warren;185;;;36.4265;-78.0036;4;36.4265,-78.0036
+US;28618;Deep Gap;North Carolina;NC;Watauga;189;;;36.2136;-81.5163;4;36.2136,-81.5163
+US;27532;Goldsboro;North Carolina;NC;Wayne;191;;;35.372;-78.0524;4;35.372,-78.0524
+US;27873;Saratoga;North Carolina;NC;Wilson;195;;;35.6538;-77.7755;4;35.6538,-77.7755
+US;28337;Elizabethtown;North Carolina;NC;Bladen;017;;;34.6471;-78.5747;4;34.6471,-78.5747
+US;28420;Ash;North Carolina;NC;Brunswick;019;;;34.0659;-78.5056;4;34.0659,-78.5056
+US;28469;Ocean Isle Beach;North Carolina;NC;Brunswick;019;;;33.8913;-78.4298;4;33.8913,-78.4298
+US;28704;Arden;North Carolina;NC;Buncombe;021;;;35.4637;-82.5354;4;35.4637,-82.5354
+US;28814;Asheville;North Carolina;NC;Buncombe;021;;;35.6648;-82.4927;4;35.6648,-82.4927
+US;28816;Asheville;North Carolina;NC;Buncombe;021;;;35.6203;-82.5286;4;35.6203,-82.5286
+US;28647;Linville Falls;North Carolina;NC;Burke;023;;;35.9593;-81.9429;4;35.9593,-81.9429
+US;28655;Morganton;North Carolina;NC;Burke;023;;;35.7346;-81.7042;4;35.7346,-81.7042
+US;28083;Kannapolis;North Carolina;NC;Cabarrus;025;;;35.4848;-80.6015;4;35.4848,-80.6015
+US;28661;Patterson;North Carolina;NC;Caldwell;027;;;35.9973;-81.5626;4;35.9973,-81.5626
+US;28511;Atlantic;North Carolina;NC;Carteret;031;;;34.8888;-76.3521;4;34.8888,-76.3521
+US;28589;Williston;North Carolina;NC;Carteret;031;;;34.7893;-76.5052;4;34.7893,-76.5052
+US;27208;Bennett;North Carolina;NC;Chatham;037;;;35.5673;-79.5225;4;35.5673,-79.5225
+US;28903;Culberson;North Carolina;NC;Cherokee;039;;;34.9917;-84.1677;4;34.9917,-84.1677
+US;28020;Casar;North Carolina;NC;Cleveland;045;;;35.5145;-81.6357;4;35.5145,-81.6357
+US;28042;Fallston;North Carolina;NC;Cleveland;045;;;35.429;-81.5015;4;35.429,-81.5015
+US;28169;Waco;North Carolina;NC;Cleveland;045;;;35.3615;-81.4287;4;35.3615,-81.4287
+US;28432;Clarendon;North Carolina;NC;Columbus;047;;;34.1761;-78.7637;4;34.1761,-78.7637
+US;27917;Barco;North Carolina;NC;Currituck;053;;;36.3588;-75.9793;4;36.3588,-75.9793
+US;27927;Corolla;North Carolina;NC;Currituck;053;;;36.3206;-75.8132;4;36.3206,-75.8132
+US;27950;Knotts Island;North Carolina;NC;Currituck;053;;;36.5232;-75.9702;4;36.5232,-75.9702
+US;27953;Manns Harbor;North Carolina;NC;Dare;055;;;35.8238;-75.8467;4;35.8238,-75.8467
+US;27360;Thomasville;North Carolina;NC;Davidson;057;;;35.8713;-80.0913;4;35.8713,-80.0913
+US;27361;Thomasville;North Carolina;NC;Davidson;057;;;35.8829;-80.276;4;35.8829,-80.276
+US;28341;Faison;North Carolina;NC;Duplin;061;;;35.1199;-78.118;4;35.1199,-78.118
+US;28518;Beulaville;North Carolina;NC;Duplin;061;;;34.934;-77.7697;4;34.934,-77.7697
+US;27705;Durham;North Carolina;NC;Durham;063;;;36.0218;-78.9478;4;36.0218,-78.9478
+US;27040;Pfafftown;North Carolina;NC;Forsyth;067;;;36.1669;-80.3798;4;36.1669,-80.3798
+US;27106;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.1428;-80.3069;4;36.1428,-80.3069
+US;28077;High Shoals;North Carolina;NC;Gaston;071;;;35.4041;-81.2029;4;35.4041,-81.2029
+US;27358;Summerfield;North Carolina;NC;Guilford;081;;;36.2245;-79.8901;4;36.2245,-79.8901
+US;27413;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;28751;Maggie Valley;North Carolina;NC;Haywood;087;;;35.5201;-83.0929;4;35.5201,-83.0929
+US;28742;Horse Shoe;North Carolina;NC;Henderson;089;;;35.3432;-82.5565;4;35.3432,-82.5565
+US;28792;Hendersonville;North Carolina;NC;Henderson;089;;;35.3613;-82.4264;4;35.3613,-82.4264
+US;28376;Raeford;North Carolina;NC;Hoke;093;;;34.989;-79.2228;4;34.989,-79.2228
+US;28634;Harmony;North Carolina;NC;Iredell;097;;;35.958;-80.7585;4;35.958,-80.7585
+US;28688;Turnersburg;North Carolina;NC;Iredell;097;;;35.9085;-80.8073;4;35.9085,-80.8073
+US;28725;Dillsboro;North Carolina;NC;Jackson;099;;;35.3735;-83.2592;4;35.3735,-83.2592
+US;27332;Sanford;North Carolina;NC;Lee;105;;;35.4469;-79.138;4;35.4469,-79.138
+US;27216;Burlington;North Carolina;NC;Alamance;001;;;36.0475;-79.4797;4;36.0475,-79.4797
+US;28753;Marshall;North Carolina;NC;Madison;115;;;35.8597;-82.7105;4;35.8597,-82.7105
+US;27258;Haw River;North Carolina;NC;Alamance;001;;;36.0915;-79.3642;4;36.0915,-79.3642
+US;28242;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;27302;Mebane;North Carolina;NC;Alamance;001;;;36.0979;-79.2719;4;36.0979,-79.2719
+US;28246;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2275;-80.8425;4;35.2275,-80.8425
+US;28170;Wadesboro;North Carolina;NC;Anson;007;;;34.9809;-80.0696;4;34.9809,-80.0696
+US;28272;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28672;Scottville;North Carolina;NC;Ashe;009;;;36.4833;-81.3276;4;36.4833,-81.3276
+US;28274;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1879;-80.8317;4;35.1879,-80.8317
+US;28652;Minneapolis;North Carolina;NC;Avery;011;;;36.0993;-81.9871;4;36.0993,-81.9871
+US;28296;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2252;-80.8458;4;35.2252,-80.8458
+US;27847;Kelford;North Carolina;NC;Bertie;015;;;36.1871;-77.1898;4;36.1871,-77.1898
+US;28327;Carthage;North Carolina;NC;Moore;125;;;35.3061;-79.3969;4;35.3061,-79.3969
+US;28715;Candler;North Carolina;NC;Buncombe;021;;;35.5376;-82.7001;4;35.5376,-82.7001
+US;27820;Conway;North Carolina;NC;Northampton;131;;;36.4164;-77.2502;4;36.4164,-77.2502
+US;28815;Asheville;North Carolina;NC;Buncombe;021;;;35.6203;-82.5286;4;35.6203,-82.5286
+US;27831;Garysburg;North Carolina;NC;Northampton;131;;;36.4761;-77.5719;4;36.4761,-77.5719
+US;28026;Concord;North Carolina;NC;Cabarrus;025;;;35.3463;-80.5411;4;35.3463,-80.5411
+US;28540;Jacksonville;North Carolina;NC;Onslow;133;;;34.7375;-77.4628;4;34.7375,-77.4628
+US;27314;Prospect Hill;North Carolina;NC;Caswell;033;;;36.2932;-79.2156;4;36.2932,-79.2156
+US;28547;Camp Lejeune;North Carolina;NC;Onslow;133;;;34.6909;-77.3614;1;34.6909,-77.3614
+US;28601;Hickory;North Carolina;NC;Catawba;035;;;35.7576;-81.3289;4;35.7576,-81.3289
+US;28583;Stonewall;North Carolina;NC;Pamlico;137;;;35.1371;-76.7406;4;35.1371,-76.7406
+US;28610;Claremont;North Carolina;NC;Catawba;035;;;35.7211;-81.1297;4;35.7211,-81.1297
+US;28454;Maple Hill;North Carolina;NC;Pender;141;;;34.6594;-77.7117;4;34.6594,-77.7117
+US;28904;Hayesville;North Carolina;NC;Clay;043;;;35.0417;-83.7867;4;35.0417,-83.7867
+US;27828;Farmville;North Carolina;NC;Pitt;147;;;35.5806;-77.5793;4;35.5806,-77.5793
+US;28423;Bolton;North Carolina;NC;Columbus;047;;;34.3091;-78.3372;4;34.3091,-78.3372
+US;27204;Asheboro;North Carolina;NC;Randolph;151;;;35.7883;-79.7206;4;35.7883,-79.7206
+US;28430;Cerro Gordo;North Carolina;NC;Columbus;047;;;34.3025;-78.9216;4;34.3025,-78.9216
+US;28379;Rockingham;North Carolina;NC;Richmond;153;;;34.9336;-79.7666;4;34.9336,-79.7666
+US;28302;Fayetteville;North Carolina;NC;Cumberland;051;;;35.0343;-78.9088;4;35.0343,-78.9088
+US;28271;Charlotte;North Carolina;NC;Robeson;155;;;35.216;-80.8358;4;35.216,-80.8358
+US;28305;Fayetteville;North Carolina;NC;Cumberland;051;;;35.056;-78.9047;4;35.056,-78.9047
+US;28357;Lumber Bridge;North Carolina;NC;Robeson;155;;;34.8762;-79.0664;4;34.8762,-79.0664
+US;28311;Fayetteville;North Carolina;NC;Cumberland;051;;;35.1294;-78.8982;4;35.1294,-78.8982
+US;28375;Proctorville;North Carolina;NC;Robeson;155;;;34.4713;-79.0414;4;34.4713,-79.0414
+US;27939;Grandy;North Carolina;NC;Currituck;053;;;36.2339;-75.8768;4;36.2339,-75.8768
+US;28146;Salisbury;North Carolina;NC;Rowan;159;;;35.6187;-80.4022;4;35.6187,-80.4022
+US;27966;Powells Point;North Carolina;NC;Currituck;053;;;36.1207;-75.8273;4;36.1207,-75.8273
+US;28318;Autryville;North Carolina;NC;Sampson;163;;;35.0997;-78.6021;4;35.0997,-78.6021
+US;27920;Buxton;North Carolina;NC;Dare;055;;;35.2677;-75.5424;4;35.2677,-75.5424
+US;28393;Turkey;North Carolina;NC;Sampson;163;;;34.9857;-78.2121;4;34.9857,-78.2121
+US;27978;Stumpy Point;North Carolina;NC;Dare;055;;;35.6985;-75.7728;4;35.6985,-75.7728
+US;28097;Locust;North Carolina;NC;Stanly;167;;;35.2704;-80.4211;4;35.2704,-80.4211
+US;27292;Lexington;North Carolina;NC;Davidson;057;;;35.8231;-80.262;4;35.8231,-80.262
+US;28163;Stanfield;North Carolina;NC;Stanly;167;;;35.2106;-80.4407;4;35.2106,-80.4407
+US;27709;Durham;North Carolina;NC;Durham;063;;;36.0512;-78.8577;4;36.0512,-78.8577
+US;27017;Dobson;North Carolina;NC;Surry;171;;;36.3698;-80.7101;4;36.3698,-80.7101
+US;27111;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0999;-80.2442;4;36.0999,-80.2442
+US;27047;Siloam;North Carolina;NC;Surry;171;;;36.3002;-80.5772;4;36.3002,-80.5772
+US;27198;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27502;Apex;North Carolina;NC;Wake;183;;;35.7225;-78.8408;4;35.7225,-78.8408
+US;27525;Franklinton;North Carolina;NC;Franklin;069;;;36.0955;-78.4486;4;36.0955,-78.4486
+US;27539;Apex;North Carolina;NC;Wake;183;;;35.7225;-78.8408;4;35.7225,-78.8408
+US;27596;Youngsville;North Carolina;NC;Franklin;069;;;36.0249;-78.4744;4;36.0249,-78.4744
+US;27545;Knightdale;North Carolina;NC;Wake;183;;;35.7789;-78.4898;4;35.7789,-78.4898
+US;27235;Colfax;North Carolina;NC;Guilford;081;;;36.1003;-80.0103;4;36.1003,-80.0103
+US;27592;Willow Spring;North Carolina;NC;Wake;183;;;35.547;-78.6717;1;35.547,-78.6717
+US;27411;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27606;Raleigh;North Carolina;NC;Wake;183;;;35.7645;-78.7112;4;35.7645,-78.7112
+US;27455;Greensboro;North Carolina;NC;Guilford;081;;;36.1824;-79.806;4;36.1824,-79.806
+US;27613;Raleigh;North Carolina;NC;Wake;183;;;35.8949;-78.7051;4;35.8949,-78.7051
+US;27498;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27614;Raleigh;North Carolina;NC;Wake;183;;;35.9457;-78.6433;4;35.9457,-78.6433
+US;27546;Lillington;North Carolina;NC;Harnett;085;;;35.332;-78.9212;4;35.332,-78.9212
+US;27616;Raleigh;North Carolina;NC;Wake;183;;;35.8673;-78.5381;4;35.8673,-78.5381
+US;28010;Barium Springs;North Carolina;NC;Iredell;097;;;35.7192;-80.8991;4;35.7192,-80.8991
+US;27650;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;28115;Mooresville;North Carolina;NC;Iredell;097;;;35.5774;-80.8226;4;35.5774,-80.8226
+US;28691;Valle Crucis;North Carolina;NC;Watauga;189;;;36.2092;-81.7789;4;36.2092,-81.7789
+US;28573;Pollocksville;North Carolina;NC;Jones;103;;;35.0151;-77.2287;4;35.0151,-77.2287
+US;27533;Goldsboro;North Carolina;NC;Wayne;191;;;35.372;-78.0524;4;35.372,-78.0524
+US;28080;Iron Station;North Carolina;NC;Lincoln;109;;;35.4657;-81.107;4;35.4657,-81.107
+US;27830;Fremont;North Carolina;NC;Wayne;191;;;35.5553;-77.958;4;35.5553,-77.958
+US;28093;Lincolnton;North Carolina;NC;Lincoln;109;;;35.4848;-81.2395;4;35.4848,-81.2395
+US;28606;Boomer;North Carolina;NC;Wilkes;193;;;36.0552;-81.3137;4;36.0552,-81.3137
+US;28763;Otto;North Carolina;NC;Macon;113;;;35.0515;-83.3854;4;35.0515,-83.3854
+US;28665;Purlear;North Carolina;NC;Wilkes;193;;;36.1964;-81.3528;4;36.1964,-81.3528
+US;28206;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2522;-80.8265;4;35.2522,-80.8265
+US;27883;Stantonsburg;North Carolina;NC;Wilson;195;;;35.594;-77.8378;4;35.594,-77.8378
+US;28210;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1316;-80.8577;4;35.1316,-80.8577
+US;28642;Jonesville;North Carolina;NC;Yadkin;197;;;36.2286;-80.787;4;36.2286,-80.787
+US;28213;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2836;-80.7638;4;35.2836,-80.7638
+US;28223;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.3041;-80.7267;4;35.3041,-80.7267
+US;28255;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28260;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28278;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2072;-80.9568;4;35.2072,-80.9568
+US;28289;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28765;Penland;North Carolina;NC;Mitchell;121;;;35.9219;-82.1107;4;35.9219,-82.1107
+US;27325;Robbins;North Carolina;NC;Moore;125;;;35.4528;-79.582;4;35.4528,-79.582
+US;27807;Bailey;North Carolina;NC;Nash;127;;;35.8072;-78.0892;4;35.8072,-78.0892
+US;27856;Nashville;North Carolina;NC;Nash;127;;;35.9843;-77.9595;4;35.9843,-77.9595
+US;28407;Wilmington;North Carolina;NC;New Hanover;129;;;34.0881;-77.8526;4;34.0881,-77.8526
+US;27853;Margarettsville;North Carolina;NC;Northampton;131;;;36.5245;-77.326;4;36.5245,-77.326
+US;28529;Grantsboro;North Carolina;NC;Pamlico;137;;;35.0668;-76.871;4;35.0668,-76.871
+US;28537;Hobucken;North Carolina;NC;Pamlico;137;;;35.2518;-76.5696;4;35.2518,-76.5696
+US;27909;Elizabeth City;North Carolina;NC;Pasquotank;139;;;36.2951;-76.2445;4;36.2951,-76.2445
+US;27930;Hertford;North Carolina;NC;Perquimans;143;;;36.1902;-76.4661;4;36.1902,-76.4661
+US;27541;Hurdle Mills;North Carolina;NC;Person;145;;;36.2518;-79.0827;4;36.2518,-79.0827
+US;27583;Timberlake;North Carolina;NC;Person;145;;;36.2918;-78.9353;4;36.2918,-78.9353
+US;27829;Fountain;North Carolina;NC;Pitt;147;;;35.674;-77.64;4;35.674,-77.64
+US;28750;Lynn;North Carolina;NC;Polk;149;;;35.2362;-82.2362;4;35.2362,-82.2362
+US;28380;Rockingham;North Carolina;NC;Richmond;153;;;34.9942;-79.7673;4;34.9942,-79.7673
+US;28383;Rowland;North Carolina;NC;Robeson;155;;;34.5887;-79.2618;4;34.5887,-79.2618
+US;27027;Mayodan;North Carolina;NC;Rockingham;157;;;36.4277;-79.9567;4;36.4277,-79.9567
+US;27289;Eden;North Carolina;NC;Rockingham;157;;;36.3921;-79.7731;4;36.3921,-79.7731
+US;27323;Reidsville;North Carolina;NC;Rockingham;157;;;36.3921;-79.7731;4;36.3921,-79.7731
+US;28023;China Grove;North Carolina;NC;Rowan;159;;;35.5669;-80.59;4;35.5669,-80.59
+US;28040;Ellenboro;North Carolina;NC;Rutherford;161;;;35.3344;-81.7707;4;35.3344,-81.7707
+US;28043;Forest City;North Carolina;NC;Rutherford;161;;;35.325;-81.846;4;35.325,-81.846
+US;28382;Roseboro;North Carolina;NC;Sampson;163;;;34.9639;-78.5133;4;34.9639,-78.5133
+US;28444;Harrells;North Carolina;NC;Sampson;163;;;34.6769;-78.243;4;34.6769,-78.243
+US;28352;Laurinburg;North Carolina;NC;Scotland;165;;;34.7599;-79.4673;4;34.7599,-79.4673
+US;28396;Wagram;North Carolina;NC;Scotland;165;;;34.9044;-79.3959;4;34.9044,-79.3959
+US;28002;Albemarle;North Carolina;NC;Stanly;167;;;35.3501;-80.2001;4;35.3501,-80.2001
+US;28676;State Road;North Carolina;NC;Surry;171;;;36.3422;-80.8653;4;36.3422,-80.8653
+US;28719;Cherokee;North Carolina;NC;Swain;173;;;35.5094;-83.3144;4;35.5094,-83.3144
+US;27656;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27675;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27697;Raleigh;North Carolina;NC;Wake;183;;;35.7721;-78.6386;4;35.7721,-78.6386
+US;27563;Norlina;North Carolina;NC;Warren;185;;;36.4754;-78.1895;4;36.4754,-78.1895
+US;28607;Boone;North Carolina;NC;Watauga;189;;;36.2142;-81.666;4;36.2142,-81.666
+US;28608;Boone;North Carolina;NC;Watauga;189;;;36.2168;-81.6746;4;36.2168,-81.6746
+US;28679;Sugar Grove;North Carolina;NC;Watauga;189;;;36.2627;-81.8441;4;36.2627,-81.8441
+US;28654;Moravian Falls;North Carolina;NC;Wilkes;193;;;36.0788;-81.1781;4;36.0788,-81.1781
+US;27880;Sims;North Carolina;NC;Wilson;195;;;35.7435;-78.0859;4;35.7435,-78.0859
+US;27895;Wilson;North Carolina;NC;Wilson;195;;;35.7199;-77.9267;4;35.7199,-77.9267
+US;28631;Grassy Creek;North Carolina;NC;Ashe;009;;;36.5415;-81.4468;4;36.5415,-81.4468
+US;28684;Todd;North Carolina;NC;Ashe;009;;;36.3245;-81.5874;4;36.3245,-81.5874
+US;28657;Newland;North Carolina;NC;Avery;011;;;36.059;-81.9303;4;36.059,-81.9303
+US;27806;Aurora;North Carolina;NC;Beaufort;013;;;35.3023;-76.7994;4;35.3023,-76.7994
+US;27924;Colerain;North Carolina;NC;Bertie;015;;;36.1901;-76.8548;4;36.1901,-76.8548
+US;28730;Fairview;North Carolina;NC;Buncombe;021;;;35.5258;-82.3985;4;35.5258,-82.3985
+US;28759;Mills River;North Carolina;NC;Buncombe;021;;;35.3906;-82.568;4;35.3906,-82.568
+US;28512;Atlantic Beach;North Carolina;NC;Carteret;031;;;34.6991;-76.7402;4;34.6991,-76.7402
+US;28516;Beaufort;North Carolina;NC;Carteret;031;;;34.758;-76.6228;4;34.758,-76.6228
+US;27213;Bonlee;North Carolina;NC;Chatham;037;;;35.6482;-79.4149;4;35.6482,-79.4149
+US;27256;Gulf;North Carolina;NC;Chatham;037;;;35.5604;-79.2817;4;35.5604,-79.2817
+US;28073;Grover;North Carolina;NC;Cleveland;045;;;35.1836;-81.4552;4;35.1836,-81.4552
+US;28450;Lake Waccamaw;North Carolina;NC;Columbus;047;;;34.3394;-78.5102;4;34.3394,-78.5102
+US;28562;New Bern;North Carolina;NC;Craven;049;;;35.1004;-77.1029;4;35.1004,-77.1029
+US;28586;Vanceboro;North Carolina;NC;Craven;049;;;35.3063;-77.1716;4;35.3063,-77.1716
+US;28307;Fort Bragg;North Carolina;NC;Cumberland;051;;;35.1416;-79.0025;4;35.1416,-79.0025
+US;27958;Moyock;North Carolina;NC;Currituck;053;;;36.4871;-76.1146;4;36.4871,-76.1146
+US;27981;Wanchese;North Carolina;NC;Dare;055;;;35.8622;-75.6437;4;35.8622,-75.6437
+US;27293;Lexington;North Carolina;NC;Davidson;057;;;35.8829;-80.276;4;35.8829,-80.276
+US;27295;Lexington;North Carolina;NC;Davidson;057;;;35.8684;-80.315;4;35.8684,-80.315
+US;28453;Magnolia;North Carolina;NC;Duplin;061;;;34.8957;-78.0432;4;34.8957,-78.0432
+US;28466;Wallace;North Carolina;NC;Duplin;061;;;34.7542;-77.9429;4;34.7542,-77.9429
+US;27717;Durham;North Carolina;NC;Durham;063;;;36.0512;-78.8577;4;36.0512,-78.8577
+US;27801;Rocky Mount;North Carolina;NC;Edgecombe;065;;;35.9427;-77.7608;1;35.9427,-77.7608
+US;27886;Tarboro;North Carolina;NC;Edgecombe;065;;;35.8983;-77.5421;4;35.8983,-77.5421
+US;27104;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.092;-80.3224;4;36.092,-80.3224
+US;27107;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0403;-80.1933;4;36.0403,-80.1933
+US;28120;Mount Holly;North Carolina;NC;Gaston;071;;;35.3119;-81.0306;4;35.3119,-81.0306
+US;27938;Gatesville;North Carolina;NC;Gates;073;;;36.4072;-76.7325;4;36.4072,-76.7325
+US;27946;Hobbsville;North Carolina;NC;Gates;073;;;36.3543;-76.6178;4;36.3543,-76.6178
+US;28771;Robbinsville;North Carolina;NC;Graham;075;;;35.3259;-83.7888;4;35.3259,-83.7888
+US;27233;Climax;North Carolina;NC;Guilford;081;;;35.9345;-79.7019;4;35.9345,-79.7019
+US;27402;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27409;Greensboro;North Carolina;NC;Guilford;081;;;36.0777;-79.9086;4;36.0777,-79.9086
+US;27416;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;28726;East Flat Rock;North Carolina;NC;Henderson;089;;;35.2799;-82.4204;4;35.2799,-82.4204
+US;28735;Gerton;North Carolina;NC;Henderson;089;;;35.4759;-82.3505;4;35.4759,-82.3505
+US;28791;Hendersonville;North Carolina;NC;Henderson;089;;;35.3464;-82.525;4;35.3464,-82.525
+US;28779;Sylva;North Carolina;NC;Jackson;099;;;35.3481;-83.2031;4;35.3481,-83.2031
+US;27577;Smithfield;North Carolina;NC;Johnston;101;;;35.5068;-78.3479;4;35.5068,-78.3479
+US;27505;Broadway;North Carolina;NC;Lee;105;;;35.4181;-79.0435;4;35.4181,-79.0435
+US;28355;Lemon Springs;North Carolina;NC;Lee;105;;;35.3896;-79.1945;4;35.3896,-79.1945
+US;28762;Old Fort;North Carolina;NC;McDowell;111;;;35.6169;-82.1686;4;35.6169,-82.1686
+US;27892;Williamston;North Carolina;NC;Martin;117;;;35.8212;-77.1022;4;35.8212,-77.1022
+US;28036;Davidson;North Carolina;NC;Mecklenburg;119;;;35.4858;-80.794;4;35.4858,-80.794
+US;28207;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1935;-80.8272;4;35.1935,-80.8272
+US;28208;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2358;-80.8964;4;35.2358,-80.8964
+US;28220;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28269;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2886;-80.8209;4;35.2886,-80.8209
+US;28281;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28285;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;27816;Castalia;North Carolina;NC;Nash;127;;;36.0901;-78.0705;4;36.0901,-78.0705
+US;27867;Potecasi;North Carolina;NC;Northampton;131;;;36.3632;-77.2391;4;36.3632,-77.2391
+US;28545;Mccutcheon Field;North Carolina;NC;Onslow;133;;;34.6921;-77.3912;1;34.6921,-77.3912
+US;28546;Jacksonville;North Carolina;NC;Onslow;133;;;34.774;-77.3781;4;34.774,-77.3781
+US;27510;Carrboro;North Carolina;NC;Orange;135;;;35.9055;-79.0901;4;35.9055,-79.0901
+US;27516;Chapel Hill;North Carolina;NC;Orange;135;;;35.9162;-79.0999;4;35.9162,-79.0999
+US;27517;Chapel Hill;North Carolina;NC;Orange;135;;;35.9182;-79.0035;4;35.9182,-79.0035
+US;28571;Oriental;North Carolina;NC;Pamlico;137;;;35.0364;-76.7015;4;35.0364,-76.7015
+US;27812;Bethel;North Carolina;NC;Pitt;147;;;35.7909;-77.3748;4;35.7909,-77.3748
+US;27834;Greenville;North Carolina;NC;Pitt;147;;;35.6192;-77.3975;4;35.6192,-77.3975
+US;27835;Greenville;North Carolina;NC;Pitt;147;;;35.5885;-77.3531;4;35.5885,-77.3531
+US;27248;Franklinville;North Carolina;NC;Randolph;151;;;35.7917;-79.7132;4;35.7917,-79.7132
+US;27341;Seagrove;North Carolina;NC;Randolph;151;;;35.5283;-79.6979;4;35.5283,-79.6979
+US;28367;Norman;North Carolina;NC;Richmond;153;;;35.1704;-79.7228;4;35.1704,-79.7228
+US;28377;Red Springs;North Carolina;NC;Robeson;155;;;34.8083;-79.1636;4;34.8083,-79.1636
+US;28378;Rex;North Carolina;NC;Robeson;155;;;34.8543;-79.0642;4;34.8543,-79.0642
+US;27048;Stoneville;North Carolina;NC;Rockingham;157;;;36.4705;-79.9013;4;36.4705,-79.9013
+US;27375;Wentworth;North Carolina;NC;Rockingham;157;;;36.3921;-79.7731;4;36.3921,-79.7731
+US;28039;East Spencer;North Carolina;NC;Rowan;159;;;35.6805;-80.4354;4;35.6805,-80.4354
+US;28041;Faith;North Carolina;NC;Rowan;159;;;35.5817;-80.4581;4;35.5817,-80.4581
+US;28447;Ivanhoe;North Carolina;NC;Sampson;163;;;34.6233;-78.2342;4;34.6233,-78.2342
+US;28128;Norwood;North Carolina;NC;Stanly;167;;;35.2275;-80.1433;4;35.2275,-80.1433
+US;28137;Richfield;North Carolina;NC;Stanly;167;;;35.4541;-80.2838;4;35.4541,-80.2838
+US;27019;Germanton;North Carolina;NC;Stokes;169;;;36.2725;-80.2254;4;36.2725,-80.2254
+US;28621;Elkin;North Carolina;NC;Surry;171;;;36.2872;-80.8554;4;36.2872,-80.8554
+US;28103;Marshville;North Carolina;NC;Union;179;;;35.0167;-80.3781;4;35.0167,-80.3781
+US;27511;Cary;North Carolina;NC;Wake;183;;;35.7641;-78.7786;4;35.7641,-78.7786
+US;27601;Raleigh;North Carolina;NC;Wake;183;;;35.7727;-78.6324;4;35.7727,-78.6324
+US;27621;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27534;Goldsboro;North Carolina;NC;Wayne;191;;;35.3664;-77.9221;4;35.3664,-77.9221
+US;27011;Boonville;North Carolina;NC;Yadkin;197;;;36.234;-80.6357;4;36.234,-80.6357
+US;28755;Micaville;North Carolina;NC;Yancey;199;;;35.9096;-82.2132;4;35.9096,-82.2132
+US;27340;Saxapahaw;North Carolina;NC;Alamance;001;;;35.9488;-79.3297;4;35.9488,-79.3297
+US;28646;Linville;North Carolina;NC;Avery;011;;;36.0665;-81.8704;4;36.0665,-81.8704
+US;27889;Washington;North Carolina;NC;Beaufort;013;;;35.5884;-77.1404;4;35.5884,-77.1404
+US;27849;Lewiston Woodville;North Carolina;NC;Bertie;015;;;36.0933;-77.1439;4;36.0933,-77.1439
+US;28433;Clarkton;North Carolina;NC;Bladen;017;;;34.503;-78.6313;4;34.503,-78.6313
+US;28757;Montreat;North Carolina;NC;Buncombe;021;;;35.6415;-82.3156;4;35.6415,-82.3156
+US;28813;Asheville;North Carolina;NC;Buncombe;021;;;35.5004;-82.5026;4;35.5004,-82.5026
+US;28025;Concord;North Carolina;NC;Cabarrus;025;;;35.3716;-80.53;4;35.3716,-80.53
+US;28630;Granite Falls;North Carolina;NC;Caldwell;027;;;35.7965;-81.4306;4;35.7965,-81.4306
+US;28520;Cedar Island;North Carolina;NC;Carteret;031;;;35.0082;-76.316;4;35.0082,-76.316
+US;28553;Marshallberg;North Carolina;NC;Carteret;031;;;34.7265;-76.5173;4;34.7265,-76.5173
+US;28582;Stella;North Carolina;NC;Carteret;031;;;34.7777;-77.1308;4;34.7777,-77.1308
+US;28682;Terrell;North Carolina;NC;Catawba;035;;;35.5836;-80.9631;4;35.5836,-80.9631
+US;27207;Bear Creek;North Carolina;NC;Chatham;037;;;35.6129;-79.3726;4;35.6129,-79.3726
+US;27312;Pittsboro;North Carolina;NC;Chatham;037;;;35.7694;-79.1755;4;35.7694,-79.1755
+US;28089;Lattimore;North Carolina;NC;Cleveland;045;;;35.3182;-81.6607;4;35.3182,-81.6607
+US;28431;Chadbourn;North Carolina;NC;Columbus;047;;;34.3223;-78.8267;4;34.3223,-78.8267
+US;28436;Delco;North Carolina;NC;Columbus;047;;;34.2838;-78.2607;4;34.2838,-78.2607
+US;28439;Fair Bluff;North Carolina;NC;Columbus;047;;;34.3023;-79.0175;4;34.3023,-79.0175
+US;28304;Fayetteville;North Carolina;NC;Cumberland;051;;;35.0257;-78.9705;4;35.0257,-78.9705
+US;28312;Fayetteville;North Carolina;NC;Cumberland;051;;;34.9549;-78.7408;4;34.9549,-78.7408
+US;28314;Fayetteville;North Carolina;NC;Cumberland;051;;;35.0583;-79.008;4;35.0583,-79.008
+US;28344;Godwin;North Carolina;NC;Cumberland;051;;;35.1969;-78.6625;4;35.1969,-78.6625
+US;27973;Shawboro;North Carolina;NC;Currituck;053;;;36.3779;-76.0945;4;36.3779,-76.0945
+US;27949;Kitty Hawk;North Carolina;NC;Dare;055;;;36.0646;-75.7057;4;36.0646,-75.7057
+US;28325;Calypso;North Carolina;NC;Duplin;061;;;35.1538;-78.1053;4;35.1538,-78.1053
+US;28398;Warsaw;North Carolina;NC;Duplin;061;;;35.018;-78.031;4;35.018,-78.031
+US;27503;Bahama;North Carolina;NC;Durham;063;;;36.1566;-78.8903;4;36.1566,-78.8903
+US;27715;Durham;North Carolina;NC;Durham;063;;;36.0512;-78.8577;4;36.0512,-78.8577
+US;27094;Rural Hall;North Carolina;NC;Forsyth;067;;;36.2404;-80.2934;4;36.2404,-80.2934
+US;27109;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27150;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27284;Kernersville;North Carolina;NC;Forsyth;067;;;36.1165;-80.0831;4;36.1165,-80.0831
+US;28012;Belmont;North Carolina;NC;Gaston;071;;;35.244;-81.044;4;35.244,-81.044
+US;28098;Lowell;North Carolina;NC;Gaston;071;;;35.2655;-81.096;4;35.2655,-81.096
+US;27969;Roduco;North Carolina;NC;Gates;073;;;36.4618;-76.8125;4;36.4618,-76.8125
+US;27263;High Point;North Carolina;NC;Guilford;081;;;35.9359;-79.9395;4;35.9359,-79.9395
+US;27301;Mc Leansville;North Carolina;NC;Guilford;081;;;36.1163;-79.6684;1;36.1163,-79.6684
+US;27406;Greensboro;North Carolina;NC;Guilford;081;;;36.022;-79.7821;4;36.022,-79.7821
+US;27410;Greensboro;North Carolina;NC;Guilford;081;;;36.1032;-79.8794;4;36.1032,-79.8794
+US;27495;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27506;Buies Creek;North Carolina;NC;Harnett;085;;;35.4132;-78.7356;4;35.4132,-78.7356
+US;27521;Coats;North Carolina;NC;Harnett;085;;;35.4082;-78.6627;4;35.4082,-78.6627
+US;28727;Edneyville;North Carolina;NC;Henderson;089;;;35.394;-82.3409;4;35.394,-82.3409
+US;28729;Etowah;North Carolina;NC;Henderson;089;;;35.3172;-82.5977;4;35.3172,-82.5977
+US;28758;Mountain Home;North Carolina;NC;Henderson;089;;;35.3711;-82.4938;4;35.3711,-82.4938
+US;28677;Statesville;North Carolina;NC;Iredell;097;;;35.799;-80.894;4;35.799,-80.894
+US;28689;Union Grove;North Carolina;NC;Iredell;097;;;36.0369;-80.8967;4;36.0369,-80.8967
+US;27542;Kenly;North Carolina;NC;Johnston;101;;;35.6077;-78.1382;4;35.6077,-78.1382
+US;27568;Pine Level;North Carolina;NC;Johnston;101;;;35.5132;-78.2444;4;35.5132,-78.2444
+US;27576;Selma;North Carolina;NC;Johnston;101;;;35.5565;-78.264;4;35.5565,-78.264
+US;28585;Trenton;North Carolina;NC;Jones;103;;;35.0745;-77.4595;4;35.0745,-77.4595
+US;28501;Kinston;North Carolina;NC;Lenoir;107;;;35.2783;-77.586;4;35.2783,-77.586
+US;28551;La Grange;North Carolina;NC;Lenoir;107;;;35.3054;-77.7686;4;35.3054,-77.7686
+US;28033;Crouse;North Carolina;NC;Lincoln;109;;;35.421;-81.3054;4;35.421,-81.3054
+US;27871;Robersonville;North Carolina;NC;Martin;117;;;35.8218;-77.26;4;35.8218,-77.26
+US;28134;Pineville;North Carolina;NC;Mecklenburg;119;;;35.0709;-80.8859;4;35.0709,-80.8859
+US;28215;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.244;-80.7387;4;35.244,-80.7387
+US;28219;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28234;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28235;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28237;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28244;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28277;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.0552;-80.8195;4;35.0552,-80.8195
+US;28287;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28387;Southern Pines;North Carolina;NC;Moore;125;;;35.1697;-79.3957;4;35.1697,-79.3957
+US;27832;Gaston;North Carolina;NC;Northampton;131;;;36.5004;-77.645;4;36.5004,-77.645
+US;27876;Seaboard;North Carolina;NC;Northampton;131;;;36.4886;-77.4113;4;36.4886,-77.4113
+US;28460;Sneads Ferry;North Carolina;NC;Onslow;133;;;34.5426;-77.4038;4;34.5426,-77.4038
+US;28542;Camp Lejeune;North Carolina;NC;Onslow;133;;;34.664;-77.4637;1;34.664,-77.4637
+US;27573;Roxboro;North Carolina;NC;Person;145;;;36.4059;-78.9737;4;36.4059,-78.9737
+US;27836;Greenville;North Carolina;NC;Pitt;147;;;35.5804;-77.3926;4;35.5804,-77.3926
+US;28340;Fairmont;North Carolina;NC;Robeson;155;;;34.472;-79.1407;4;34.472,-79.1407
+US;28371;Parkton;North Carolina;NC;Robeson;155;;;34.9006;-78.9969;4;34.9006,-78.9969
+US;28343;Gibson;North Carolina;NC;Scotland;165;;;34.7549;-79.5839;4;34.7549,-79.5839
+US;28351;Laurel Hill;North Carolina;NC;Scotland;165;;;34.8238;-79.5491;4;34.8238,-79.5491
+US;28001;Albemarle;North Carolina;NC;Stanly;167;;;35.3573;-80.2044;4;35.3573,-80.2044
+US;28109;Misenheimer;North Carolina;NC;Stanly;167;;;35.4849;-80.2884;4;35.4849,-80.2884
+US;27016;Danbury;North Carolina;NC;Stokes;169;;;36.4559;-80.2194;4;36.4559,-80.2194
+US;28774;Sapphire;North Carolina;NC;Transylvania;175;;;35.0666;-83.0019;4;35.0666,-83.0019
+US;28108;Mineral Springs;North Carolina;NC;Union;179;;;34.9379;-80.6687;4;34.9379,-80.6687
+US;27556;Middleburg;North Carolina;NC;Vance;181;;;36.3996;-78.3225;4;36.3996,-78.3225
+US;27513;Cary;North Carolina;NC;Wake;183;;;35.7956;-78.7941;4;35.7956,-78.7941
+US;27626;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;28333;Dudley;North Carolina;NC;Wayne;191;;;35.2926;-78.0273;4;35.2926,-78.0273
+US;28624;Ferguson;North Carolina;NC;Wilkes;193;;;36.1283;-81.3864;4;36.1283,-81.3864
+US;28659;North Wilkesboro;North Carolina;NC;Wilkes;193;;;36.2017;-81.1286;4;36.2017,-81.1286
+US;27851;Lucama;North Carolina;NC;Wilson;195;;;35.6415;-78.0197;4;35.6415,-78.0197
+US;27055;Yadkinville;North Carolina;NC;Yadkin;197;;;36.1277;-80.653;4;36.1277,-80.653
+US;27202;Altamahaw;North Carolina;NC;Alamance;001;;;36.1855;-79.5055;4;36.1855,-79.5055
+US;28007;Ansonville;North Carolina;NC;Anson;007;;;35.1046;-80.1092;4;35.1046,-80.1092
+US;28102;Mc Farlan;North Carolina;NC;Anson;007;;;34.8136;-79.9776;1;34.8136,-79.9776
+US;28119;Morven;North Carolina;NC;Anson;007;;;34.8511;-80.0025;4;34.8511,-80.0025
+US;28135;Polkton;North Carolina;NC;Anson;007;;;34.9823;-80.1538;4;34.9823,-80.1538
+US;28617;Crumpler;North Carolina;NC;Ashe;009;;;36.4641;-81.4039;4;36.4641,-81.4039
+US;28662;Pineola;North Carolina;NC;Avery;011;;;36.0285;-81.8915;4;36.0285,-81.8915
+US;28664;Plumtree;North Carolina;NC;Avery;011;;;36.0441;-82.0037;4;36.0441,-82.0037
+US;27865;Pinetown;North Carolina;NC;Beaufort;013;;;35.5758;-76.8076;4;35.5758,-76.8076
+US;28467;Calabash;North Carolina;NC;Brunswick;019;;;33.9047;-78.5744;4;33.9047,-78.5744
+US;28468;Sunset Beach;North Carolina;NC;Brunswick;019;;;33.8836;-78.52;4;33.8836,-78.52
+US;28709;Barnardsville;North Carolina;NC;Buncombe;021;;;35.7748;-82.4567;4;35.7748,-82.4567
+US;28638;Hudson;North Carolina;NC;Caldwell;027;;;35.8403;-81.4897;4;35.8403,-81.4897
+US;28645;Lenoir;North Carolina;NC;Caldwell;027;;;35.9149;-81.5398;4;35.9149,-81.5398
+US;28524;Davis;North Carolina;NC;Carteret;031;;;34.7974;-76.4602;4;34.7974,-76.4602
+US;28528;Gloucester;North Carolina;NC;Carteret;031;;;34.7344;-76.5394;4;34.7344,-76.5394
+US;28531;Harkers Island;North Carolina;NC;Carteret;031;;;34.6966;-76.5583;4;34.6966,-76.5583
+US;28575;Salter Path;North Carolina;NC;Carteret;031;;;34.6885;-76.8861;4;34.6885,-76.8861
+US;27315;Providence;North Carolina;NC;Caswell;033;;;36.4873;-79.4041;4;36.4873,-79.4041
+US;28603;Hickory;North Carolina;NC;Catawba;035;;;35.6799;-81.2872;4;35.6799,-81.2872
+US;28658;Newton;North Carolina;NC;Catawba;035;;;35.6498;-81.2425;4;35.6498,-81.2425
+US;28086;Kings Mountain;North Carolina;NC;Cleveland;045;;;35.2516;-81.3806;4;35.2516,-81.3806
+US;28136;Polkville;North Carolina;NC;Cleveland;045;;;35.3961;-81.6303;4;35.3961,-81.6303
+US;28527;Ernul;North Carolina;NC;Craven;049;;;35.2547;-77.0502;4;35.2547,-77.0502
+US;28390;Spring Lake;North Carolina;NC;Cumberland;051;;;35.183;-78.9786;4;35.183,-78.9786
+US;27964;Point Harbor;North Carolina;NC;Currituck;053;;;36.0781;-75.7983;4;36.0781,-75.7983
+US;27954;Manteo;North Carolina;NC;Dare;055;;;35.8948;-75.6714;4;35.8948,-75.6714
+US;27959;Nags Head;North Carolina;NC;Dare;055;;;35.8865;-75.6038;4;35.8865,-75.6038
+US;28349;Kenansville;North Carolina;NC;Duplin;061;;;35.0152;-77.8969;4;35.0152,-77.8969
+US;28464;Teachey;North Carolina;NC;Duplin;061;;;34.77;-78.0221;4;34.77,-78.0221
+US;27819;Conetoe;North Carolina;NC;Edgecombe;065;;;35.8178;-77.4533;4;35.8178,-77.4533
+US;27152;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27199;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0999;-80.2442;4;36.0999,-80.2442
+US;27285;Kernersville;North Carolina;NC;Forsyth;067;;;36.1199;-80.0737;4;36.1199,-80.0737
+US;28733;Fontana Dam;North Carolina;NC;Graham;075;;;35.4231;-83.7795;1;35.4231,-83.7795
+US;27581;Stem;North Carolina;NC;Granville;077;;;36.1999;-78.7222;4;36.1999,-78.7222
+US;28554;Maury;North Carolina;NC;Greene;079;;;35.4821;-77.5861;4;35.4821,-77.5861
+US;28580;Snow Hill;North Carolina;NC;Greene;079;;;35.4438;-77.6956;4;35.4438,-77.6956
+US;27261;High Point;North Carolina;NC;Guilford;081;;;36.0807;-80.0244;4;36.0807,-80.0244
+US;27310;Oak Ridge;North Carolina;NC;Guilford;081;;;36.1673;-79.9804;4;36.1673,-79.9804
+US;27377;Whitsett;North Carolina;NC;Guilford;081;;;36.033;-79.5972;4;36.033,-79.5972
+US;27404;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27408;Greensboro;North Carolina;NC;Guilford;081;;;36.1064;-79.8165;4;36.1064,-79.8165
+US;27425;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27427;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27435;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27823;Enfield;North Carolina;NC;Halifax;083;;;36.1973;-77.7129;4;36.1973,-77.7129
+US;27843;Hobgood;North Carolina;NC;Halifax;083;;;36.0594;-77.4061;4;36.0594,-77.4061
+US;27501;Angier;North Carolina;NC;Harnett;085;;;35.4897;-78.7249;4;35.4897,-78.7249
+US;27552;Mamers;North Carolina;NC;Harnett;085;;;35.4168;-78.9334;4;35.4168,-78.9334
+US;27986;Winton;North Carolina;NC;Hertford;091;;;36.3826;-76.936;4;36.3826,-76.936
+US;28717;Cashiers;North Carolina;NC;Jackson;099;;;35.0971;-83.0871;4;35.0971,-83.0871
+US;27520;Clayton;North Carolina;NC;Johnston;101;;;35.6348;-78.451;4;35.6348,-78.451
+US;28502;Kinston;North Carolina;NC;Lenoir;107;;;35.2627;-77.5816;4;35.2627,-77.5816
+US;28752;Marion;North Carolina;NC;McDowell;111;;;35.6819;-82.018;4;35.6819,-82.018
+US;27841;Hassell;North Carolina;NC;Martin;117;;;35.9086;-77.2763;4;35.9086,-77.2763
+US;28106;Matthews;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28126;Newell;North Carolina;NC;Mecklenburg;119;;;35.2768;-80.7165;4;35.2768,-80.7165
+US;28205;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.22;-80.7881;4;35.22,-80.7881
+US;28218;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28236;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28243;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28254;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28262;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.3183;-80.7476;4;35.3183,-80.7476
+US;27356;Star;North Carolina;NC;Montgomery;123;;;35.4211;-79.7826;4;35.4211,-79.7826
+US;28370;Pinehurst;North Carolina;NC;Moore;125;;;35.2162;-79.4524;4;35.2162,-79.4524
+US;28408;Wilmington;North Carolina;NC;New Hanover;129;;;34.2257;-77.9447;4;34.2257,-77.9447
+US;28429;Castle Hayne;North Carolina;NC;New Hanover;129;;;34.3236;-77.9108;4;34.3236,-77.9108
+US;28541;Jacksonville;North Carolina;NC;Onslow;133;;;34.6921;-77.3912;4;34.6921,-77.3912
+US;28543;Tarawa Terrace;North Carolina;NC;Onslow;133;;;34.7354;-77.3831;1;34.7354,-77.3831
+US;28509;Alliance;North Carolina;NC;Pamlico;137;;;35.1449;-76.8022;4;35.1449,-76.8022
+US;28510;Arapahoe;North Carolina;NC;Pamlico;137;;;35.0055;-76.8149;4;35.0055,-76.8149
+US;28552;Lowland;North Carolina;NC;Pamlico;137;;;35.306;-76.5777;4;35.306,-76.5777
+US;28425;Burgaw;North Carolina;NC;Pender;141;;;34.5487;-77.9403;4;34.5487,-77.9403
+US;27811;Bellarthur;North Carolina;NC;Pitt;147;;;35.5847;-77.5134;1;35.5847,-77.5134
+US;28756;Mill Spring;North Carolina;NC;Polk;149;;;35.3338;-82.1557;4;35.3338,-82.1557
+US;28773;Saluda;North Carolina;NC;Polk;149;;;35.2383;-82.3306;4;35.2383,-82.3306
+US;27298;Liberty;North Carolina;NC;Randolph;151;;;35.8729;-79.5821;4;35.8729,-79.5821
+US;27355;Staley;North Carolina;NC;Randolph;151;;;35.796;-79.5514;4;35.796,-79.5514
+US;27320;Reidsville;North Carolina;NC;Rockingham;157;;;36.3432;-79.6642;4;36.3432,-79.6642
+US;28072;Granite Quarry;North Carolina;NC;Rowan;159;;;35.6109;-80.4361;4;35.6109,-80.4361
+US;28144;Salisbury;North Carolina;NC;Rowan;159;;;35.6515;-80.4889;4;35.6515,-80.4889
+US;28167;Union Mills;North Carolina;NC;Rutherford;161;;;35.4732;-81.9685;4;35.4732,-81.9685
+US;28441;Garland;North Carolina;NC;Sampson;163;;;34.7897;-78.4309;4;34.7897,-78.4309
+US;28353;Laurinburg;North Carolina;NC;Scotland;165;;;34.7818;-79.4824;4;34.7818,-79.4824
+US;27022;Lawsonville;North Carolina;NC;Stokes;169;;;36.5132;-80.2103;4;36.5132,-80.2103
+US;27024;Lowgap;North Carolina;NC;Surry;171;;;36.503;-80.7889;4;36.503,-80.7889
+US;27041;Pilot Mountain;North Carolina;NC;Surry;171;;;36.4109;-80.4921;4;36.4109,-80.4921
+US;28766;Penrose;North Carolina;NC;Transylvania;175;;;35.2524;-82.6222;4;35.2524,-82.6222
+US;28772;Rosman;North Carolina;NC;Transylvania;175;;;35.1437;-82.8212;4;35.1437,-82.8212
+US;28111;Monroe;North Carolina;NC;Union;179;;;35.0112;-80.5587;4;35.0112,-80.5587
+US;28174;Wingate;North Carolina;NC;Union;179;;;34.9847;-80.4476;4;34.9847,-80.4476
+US;27536;Henderson;North Carolina;NC;Vance;181;;;36.3301;-78.3981;4;36.3301,-78.3981
+US;27518;Cary;North Carolina;NC;Wake;183;;;35.7299;-78.7735;4;35.7299,-78.7735
+US;27603;Raleigh;North Carolina;NC;Wake;183;;;35.7076;-78.6563;4;35.7076,-78.6563
+US;27628;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27629;Raleigh;North Carolina;NC;Wake;183;;;35.8175;-78.5524;4;35.8175,-78.5524
+US;28635;Hays;North Carolina;NC;Wilkes;193;;;36.31;-81.1161;4;36.31,-81.1161
+US;28649;Mc Grady;North Carolina;NC;Wilkes;193;;;36.3103;-81.1912;1;36.3103,-81.1912
+US;27217;Burlington;North Carolina;NC;Alamance;001;;;36.1288;-79.4114;4;36.1288,-79.4114
+US;28452;Longwood;North Carolina;NC;Brunswick;019;;;33.9973;-78.5541;4;33.9973,-78.5541
+US;28778;Swannanoa;North Carolina;NC;Buncombe;021;;;35.6172;-82.407;4;35.6172,-82.407
+US;28801;Asheville;North Carolina;NC;Buncombe;021;;;35.5971;-82.5565;4;35.5971,-82.5565
+US;28805;Asheville;North Carolina;NC;Buncombe;021;;;35.6004;-82.4918;4;35.6004,-82.4918
+US;28082;Kannapolis;North Carolina;NC;Cabarrus;025;;;35.3463;-80.5411;4;35.3463,-80.5411
+US;28570;Newport;North Carolina;NC;Carteret;031;;;34.7551;-76.9069;4;34.7551,-76.9069
+US;27291;Leasburg;North Carolina;NC;Caswell;033;;;36.4151;-79.1942;4;36.4151,-79.1942
+US;28901;Andrews;North Carolina;NC;Cherokee;039;;;35.1959;-83.8228;4;35.1959,-83.8228
+US;28114;Mooresboro;North Carolina;NC;Cleveland;045;;;35.2295;-81.7492;4;35.2295,-81.7492
+US;27943;Hatteras;North Carolina;NC;Dare;055;;;35.2193;-75.6902;4;35.2193,-75.6902
+US;27374;Welcome;North Carolina;NC;Davidson;057;;;35.9029;-80.257;4;35.9029,-80.257
+US;27006;Advance;North Carolina;NC;Davie;059;;;36.0065;-80.4463;4;36.0065,-80.4463
+US;27706;Durham;North Carolina;NC;Durham;063;;;35.997;-78.9422;4;35.997,-78.9422
+US;27881;Speed;North Carolina;NC;Edgecombe;065;;;35.9679;-77.4452;4;35.9679,-77.4452
+US;27101;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.1024;-80.2228;4;36.1024,-80.2228
+US;27105;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.144;-80.2376;4;36.144,-80.2376
+US;27117;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27549;Louisburg;North Carolina;NC;Franklin;069;;;36.0578;-78.2586;4;36.0578,-78.2586
+US;27507;Bullock;North Carolina;NC;Granville;077;;;36.5076;-78.5646;4;36.5076,-78.5646
+US;27214;Browns Summit;North Carolina;NC;Guilford;081;;;36.2019;-79.7101;4;36.2019,-79.7101
+US;27313;Pleasant Garden;North Carolina;NC;Guilford;081;;;35.9522;-79.7549;4;35.9522,-79.7549
+US;27497;Greensboro;North Carolina;NC;Guilford;081;;;36.0798;-79.8282;4;36.0798,-79.8282
+US;27844;Hollister;North Carolina;NC;Halifax;083;;;36.259;-77.9319;4;36.259,-77.9319
+US;28323;Bunnlevel;North Carolina;NC;Harnett;085;;;35.3119;-78.8405;4;35.3119,-78.8405
+US;28335;Dunn;North Carolina;NC;Harnett;085;;;35.3063;-78.6089;4;35.3063,-78.6089
+US;28368;Olivia;North Carolina;NC;Harnett;085;;;35.3596;-79.1097;4;35.3596,-79.1097
+US;28785;Waynesville;North Carolina;NC;Haywood;087;;;35.533;-82.9719;4;35.533,-82.9719
+US;28786;Waynesville;North Carolina;NC;Haywood;087;;;35.5018;-82.9913;4;35.5018,-82.9913
+US;28731;Flat Rock;North Carolina;NC;Henderson;089;;;35.289;-82.3916;4;35.289,-82.3916
+US;27855;Murfreesboro;North Carolina;NC;Hertford;091;;;36.4319;-77.1027;4;36.4319,-77.1027
+US;28699;Scotts;North Carolina;NC;Iredell;097;;;35.831;-81.0076;4;35.831,-81.0076
+US;28707;Balsam;North Carolina;NC;Jackson;099;;;35.4268;-83.0851;4;35.4268,-83.0851
+US;28037;Denver;North Carolina;NC;Lincoln;109;;;35.4837;-80.9898;4;35.4837,-80.9898
+US;28104;Matthews;North Carolina;NC;Mecklenburg;119;;;35.0604;-80.6958;4;35.0604,-80.6958
+US;28201;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28212;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1908;-80.7448;4;35.1908,-80.7448
+US;28216;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2834;-80.8702;4;35.2834,-80.8702
+US;28222;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28232;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28256;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28258;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28270;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1355;-80.7669;4;35.1355,-80.7669
+US;28297;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;27209;Biscoe;North Carolina;NC;Montgomery;123;;;35.3599;-79.7798;4;35.3599,-79.7798
+US;27371;Troy;North Carolina;NC;Montgomery;123;;;35.3777;-79.9093;4;35.3777,-79.9093
+US;28374;Pinehurst;North Carolina;NC;Moore;125;;;35.1884;-79.4732;4;35.1884,-79.4732
+US;28388;Southern Pines;North Carolina;NC;Moore;125;;;35.2803;-79.4327;4;35.2803,-79.4327
+US;28402;Wilmington;North Carolina;NC;New Hanover;129;;;34.3405;-77.9014;4;34.3405,-77.9014
+US;28406;Wilmington;North Carolina;NC;New Hanover;129;;;34.0881;-77.8526;4;34.0881,-77.8526
+US;28410;Wilmington;North Carolina;NC;New Hanover;129;;;34.0881;-77.8526;4;34.0881,-77.8526
+US;28412;Wilmington;North Carolina;NC;New Hanover;129;;;34.1572;-77.9141;4;34.1572,-77.9141
+US;27514;Chapel Hill;North Carolina;NC;Orange;135;;;35.9203;-79.0372;4;35.9203,-79.0372
+US;28435;Currie;North Carolina;NC;Pender;141;;;34.4497;-78.0925;4;34.4497,-78.0925
+US;28478;Willard;North Carolina;NC;Pender;141;;;34.6845;-78.0234;4;34.6845,-78.0234
+US;27879;Simpson;North Carolina;NC;Pitt;147;;;35.5752;-77.2786;4;35.5752,-77.2786
+US;28513;Ayden;North Carolina;NC;Pitt;147;;;35.4565;-77.4051;4;35.4565,-77.4051
+US;27203;Asheboro;North Carolina;NC;Randolph;151;;;35.7323;-79.7893;4;35.7323,-79.7893
+US;27316;Ramseur;North Carolina;NC;Randolph;151;;;35.7143;-79.6469;4;35.7143,-79.6469
+US;28386;Shannon;North Carolina;NC;Robeson;155;;;34.8988;-79.1806;4;34.8988,-79.1806
+US;28145;Salisbury;North Carolina;NC;Rowan;159;;;35.6827;-80.4771;4;35.6827,-80.4771
+US;28074;Harris;North Carolina;NC;Rutherford;161;;;35.2247;-81.8851;4;35.2247,-81.8851
+US;28139;Rutherfordton;North Carolina;NC;Rutherford;161;;;35.3706;-81.9781;4;35.3706,-81.9781
+US;27043;Pinnacle;North Carolina;NC;Stokes;169;;;36.3339;-80.4391;4;36.3339,-80.4391
+US;27052;Walnut Cove;North Carolina;NC;Stokes;169;;;36.3189;-80.1484;4;36.3189,-80.1484
+US;28718;Cedar Mountain;North Carolina;NC;Transylvania;175;;;35.1508;-82.6374;4;35.1508,-82.6374
+US;28079;Indian Trail;North Carolina;NC;Union;179;;;35.0831;-80.6597;4;35.0831,-80.6597
+US;27587;Wake Forest;North Carolina;NC;Wake;183;;;35.9815;-78.5392;4;35.9815,-78.5392
+US;27597;Zebulon;North Carolina;NC;Wake;183;;;35.8321;-78.3174;4;35.8321,-78.3174
+US;27604;Raleigh;North Carolina;NC;Wake;183;;;35.8334;-78.5799;4;35.8334,-78.5799
+US;27608;Raleigh;North Carolina;NC;Wake;183;;;35.8077;-78.6463;4;35.8077,-78.6463
+US;27609;Raleigh;North Carolina;NC;Wake;183;;;35.848;-78.6317;4;35.848,-78.6317
+US;27625;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27661;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27698;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27018;East Bend;North Carolina;NC;Yadkin;197;;;36.2032;-80.5284;4;36.2032,-80.5284
+US;28629;Glendale Springs;North Carolina;NC;Ashe;009;;;36.3405;-81.3653;4;36.3405,-81.3653
+US;27817;Chocowinity;North Carolina;NC;Beaufort;013;;;35.4814;-77.0868;4;35.4814,-77.0868
+US;27967;Powellsville;North Carolina;NC;Bertie;015;;;36.2257;-76.933;4;36.2257,-76.933
+US;27983;Windsor;North Carolina;NC;Bertie;015;;;36.0159;-76.9336;4;36.0159,-76.9336
+US;28434;Council;North Carolina;NC;Bladen;017;;;34.429;-78.4115;4;34.429,-78.4115
+US;28470;Shallotte;North Carolina;NC;Brunswick;019;;;33.9637;-78.4064;4;33.9637,-78.4064
+US;28787;Weaverville;North Carolina;NC;Buncombe;021;;;35.7126;-82.5491;4;35.7126,-82.5491
+US;28690;Valdese;North Carolina;NC;Burke;023;;;35.7447;-81.567;4;35.7447,-81.567
+US;28557;Morehead City;North Carolina;NC;Carteret;031;;;34.7253;-76.7531;4;34.7253,-76.7531
+US;28594;Emerald Isle;North Carolina;NC;Carteret;031;;;34.6662;-77.026;4;34.6662,-77.026
+US;27379;Yanceyville;North Carolina;NC;Caswell;033;;;36.3907;-79.3465;4;36.3907,-79.3465
+US;28673;Sherrills Ford;North Carolina;NC;Catawba;035;;;35.5962;-81.0339;4;35.5962,-81.0339
+US;27932;Edenton;North Carolina;NC;Chowan;041;;;36.0908;-76.6224;4;36.0908,-76.6224
+US;28038;Earl;North Carolina;NC;Cleveland;045;;;35.197;-81.5386;4;35.197,-81.5386
+US;28152;Shelby;North Carolina;NC;Cleveland;045;;;35.2689;-81.5337;4;35.2689,-81.5337
+US;28455;Nakina;North Carolina;NC;Columbus;047;;;34.1153;-78.657;4;34.1153,-78.657
+US;28472;Whiteville;North Carolina;NC;Columbus;047;;;34.3241;-78.716;4;34.3241,-78.716
+US;28519;Bridgeton;North Carolina;NC;Craven;049;;;35.1215;-77.0208;4;35.1215,-77.0208
+US;28526;Dover;North Carolina;NC;Craven;049;;;35.2554;-77.3646;4;35.2554,-77.3646
+US;28563;New Bern;North Carolina;NC;Craven;049;;;35.1109;-77.0634;4;35.1109,-77.0634
+US;28301;Fayetteville;North Carolina;NC;Cumberland;051;;;35.0743;-78.8836;4;35.0743,-78.8836
+US;28309;Fayetteville;North Carolina;NC;Cumberland;051;;;35.0397;-78.8429;4;35.0397,-78.8429
+US;28310;Fort Bragg;North Carolina;NC;Cumberland;051;;;35.0506;-78.8038;4;35.0506,-78.8038
+US;28348;Hope Mills;North Carolina;NC;Cumberland;051;;;34.9536;-78.9354;4;34.9536,-78.9354
+US;27965;Poplar Branch;North Carolina;NC;Currituck;053;;;36.2737;-75.9097;4;36.2737,-75.9097
+US;27915;Avon;North Carolina;NC;Dare;055;;;35.3521;-75.5104;4;35.3521,-75.5104
+US;27982;Waves;North Carolina;NC;Dare;055;;;35.565;-75.4663;4;35.565,-75.4663
+US;27702;Durham;North Carolina;NC;Durham;063;;;36.0512;-78.8577;4;36.0512,-78.8577
+US;27713;Durham;North Carolina;NC;Durham;063;;;35.9112;-78.9178;4;35.9112,-78.9178
+US;27864;Pinetops;North Carolina;NC;Edgecombe;065;;;35.7885;-77.6378;4;35.7885,-77.6378
+US;27045;Rural Hall;North Carolina;NC;Forsyth;067;;;36.2293;-80.2936;4;36.2293,-80.2936
+US;27098;Rural Hall;North Carolina;NC;Forsyth;067;;;36.2404;-80.2934;4;36.2404,-80.2934
+US;27103;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0671;-80.3025;4;36.0671,-80.3025
+US;27108;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27127;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0425;-80.2609;4;36.0425,-80.2609
+US;28006;Alexis;North Carolina;NC;Gaston;071;;;35.4069;-81.0947;4;35.4069,-81.0947
+US;28021;Cherryville;North Carolina;NC;Gaston;071;;;35.3747;-81.3509;4;35.3747,-81.3509
+US;28164;Stanley;North Carolina;NC;Gaston;071;;;35.3516;-81.0959;4;35.3516,-81.0959
+US;27935;Eure;North Carolina;NC;Gates;073;;;36.4341;-76.8463;4;36.4341,-76.8463
+US;27937;Gates;North Carolina;NC;Gates;073;;;36.5036;-76.7646;4;36.5036,-76.7646
+US;27565;Oxford;North Carolina;NC;Granville;077;;;36.3313;-78.6134;4;36.3313,-78.6134
+US;28538;Hookerton;North Carolina;NC;Greene;079;;;35.438;-77.5656;4;35.438,-77.5656
+US;27249;Gibsonville;North Carolina;NC;Guilford;081;;;36.1183;-79.5685;4;36.1183,-79.5685
+US;27412;Greensboro;North Carolina;NC;Guilford;081;;;36.0661;-79.8067;4;36.0661,-79.8067
+US;27850;Littleton;North Carolina;NC;Halifax;083;;;36.4169;-77.8528;4;36.4169,-77.8528
+US;28721;Clyde;North Carolina;NC;Haywood;087;;;35.5597;-82.9216;4;35.5597,-82.9216
+US;28745;Lake Junaluska;North Carolina;NC;Haywood;087;;;35.5258;-82.9704;4;35.5258,-82.9704
+US;28784;Tuxedo;North Carolina;NC;Henderson;089;;;35.2174;-82.4178;4;35.2174,-82.4178
+US;27885;Swanquarter;North Carolina;NC;Hyde;095;;;35.4222;-76.2875;4;35.4222,-76.2875
+US;27960;Ocracoke;North Carolina;NC;Hyde;095;;;35.1397;-75.8931;4;35.1397,-75.8931
+US;27237;Cumnock;North Carolina;NC;Lee;105;;;35.4676;-79.1653;4;35.4676,-79.1653
+US;27330;Sanford;North Carolina;NC;Lee;105;;;35.4698;-79.1717;4;35.4698,-79.1717
+US;27331;Sanford;North Carolina;NC;Lee;105;;;35.4799;-79.1803;4;35.4799,-79.1803
+US;28503;Kinston;North Carolina;NC;Lenoir;107;;;35.3191;-77.595;4;35.3191,-77.595
+US;28744;Franklin;North Carolina;NC;Macon;113;;;35.1823;-83.3815;4;35.1823,-83.3815
+US;28743;Hot Springs;North Carolina;NC;Madison;115;;;35.8082;-82.9005;4;35.8082,-82.9005
+US;27861;Parmele;North Carolina;NC;Martin;117;;;35.8165;-77.3141;4;35.8165,-77.3141
+US;28031;Cornelius;North Carolina;NC;Mecklenburg;119;;;35.4733;-80.8726;4;35.4733,-80.8726
+US;28070;Huntersville;North Carolina;NC;Mecklenburg;119;;;35.4107;-80.8429;4;35.4107,-80.8429
+US;28078;Huntersville;North Carolina;NC;Mecklenburg;119;;;35.4011;-80.8695;4;35.4011,-80.8695
+US;28209;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1796;-80.8559;4;35.1796,-80.8559
+US;28221;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28224;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;27229;Candor;North Carolina;NC;Montgomery;123;;;35.2234;-79.7876;4;35.2234,-79.7876
+US;27376;West End;North Carolina;NC;Moore;125;;;35.2512;-79.536;4;35.2512,-79.536
+US;28350;Lakeview;North Carolina;NC;Moore;125;;;35.2438;-79.3086;4;35.2438,-79.3086
+US;28373;Pinebluff;North Carolina;NC;Moore;125;;;35.1007;-79.4663;4;35.1007,-79.4663
+US;28403;Wilmington;North Carolina;NC;New Hanover;129;;;34.2237;-77.8862;4;34.2237,-77.8862
+US;28428;Carolina Beach;North Carolina;NC;New Hanover;129;;;34.0366;-77.8963;4;34.0366,-77.8963
+US;28449;Kure Beach;North Carolina;NC;New Hanover;129;;;33.9927;-77.9099;4;33.9927,-77.9099
+US;27869;Rich Square;North Carolina;NC;Northampton;131;;;36.2773;-77.2969;4;36.2773,-77.2969
+US;27897;Woodland;North Carolina;NC;Northampton;131;;;36.325;-77.2107;4;36.325,-77.2107
+US;28515;Bayboro;North Carolina;NC;Pamlico;137;;;35.1526;-76.7518;4;35.1526,-76.7518
+US;28556;Merritt;North Carolina;NC;Pamlico;137;;;35.1224;-76.6719;4;35.1224,-76.6719
+US;28443;Hampstead;North Carolina;NC;Pender;141;;;34.3879;-77.6628;4;34.3879,-77.6628
+US;27837;Grimesland;North Carolina;NC;Pitt;147;;;35.558;-77.2566;4;35.558,-77.2566
+US;27317;Randleman;North Carolina;NC;Randolph;151;;;35.8488;-79.8018;4;35.8488,-79.8018
+US;28338;Ellerbe;North Carolina;NC;Richmond;153;;;35.0914;-79.7524;4;35.0914,-79.7524
+US;28345;Hamlet;North Carolina;NC;Richmond;153;;;34.8894;-79.7022;4;34.8894,-79.7022
+US;28319;Barnesville;North Carolina;NC;Robeson;155;;;34.4088;-79.0467;4;34.4088,-79.0467
+US;27025;Madison;North Carolina;NC;Rockingham;157;;;36.3695;-79.9654;4;36.3695,-79.9654
+US;27054;Woodleaf;North Carolina;NC;Rowan;159;;;35.7901;-80.6051;4;35.7901,-80.6051
+US;28071;Gold Hill;North Carolina;NC;Rowan;159;;;35.5498;-80.3346;4;35.5498,-80.3346
+US;28125;Mount Ulla;North Carolina;NC;Rowan;159;;;35.6389;-80.7239;4;35.6389,-80.7239
+US;28019;Caroleen;North Carolina;NC;Rutherford;161;;;35.281;-81.7962;4;35.281,-81.7962
+US;28160;Spindale;North Carolina;NC;Rutherford;161;;;35.3601;-81.9251;4;35.3601,-81.9251
+US;28329;Clinton;North Carolina;NC;Sampson;163;;;34.9979;-78.3233;4;34.9979,-78.3233
+US;28127;New London;North Carolina;NC;Stanly;167;;;35.4285;-80.2057;4;35.4285,-80.2057
+US;28768;Pisgah Forest;North Carolina;NC;Transylvania;175;;;35.2599;-82.6695;4;35.2599,-82.6695
+US;28173;Waxhaw;North Carolina;NC;Union;179;;;34.9251;-80.7278;4;34.9251,-80.7278
+US;27553;Manson;North Carolina;NC;Vance;181;;;36.4603;-78.2952;4;36.4603,-78.2952
+US;27540;Holly Springs;North Carolina;NC;Wake;183;;;35.6263;-78.8458;4;35.6263,-78.8458
+US;27562;New Hill;North Carolina;NC;Wake;183;;;35.6809;-78.9365;4;35.6809,-78.9365
+US;27605;Raleigh;North Carolina;NC;Wake;183;;;35.7908;-78.653;4;35.7908,-78.653
+US;27624;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27635;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27676;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27594;Wise;North Carolina;NC;Warren;185;;;36.4865;-78.1708;4;36.4865,-78.1708
+US;28683;Thurmond;North Carolina;NC;Wilkes;193;;;36.3562;-80.9317;4;36.3562,-80.9317
+US;27813;Black Creek;North Carolina;NC;Wilson;195;;;35.6352;-77.933;4;35.6352,-77.933
+US;27896;Wilson;North Carolina;NC;Wilson;195;;;35.7715;-77.973;4;35.7715,-77.973
+US;28714;Burnsville;North Carolina;NC;Yancey;199;;;35.903;-82.2876;4;35.903,-82.2876
+US;27215;Burlington;North Carolina;NC;Alamance;001;;;36.0318;-79.4889;4;36.0318,-79.4889
+US;28627;Glade Valley;North Carolina;NC;Alleghany;005;;;36.4429;-81.0168;4;36.4429,-81.0168
+US;28091;Lilesville;North Carolina;NC;Anson;007;;;34.9689;-79.9721;4;34.9689,-79.9721
+US;28133;Peachland;North Carolina;NC;Anson;007;;;35.0054;-80.2829;4;35.0054,-80.2829
+US;28616;Crossnore;North Carolina;NC;Avery;011;;;36.0218;-81.9296;4;36.0218,-81.9296
+US;27805;Aulander;North Carolina;NC;Bertie;015;;;36.1475;-77.1141;4;36.1475,-77.1141
+US;28320;Bladenboro;North Carolina;NC;Bladen;017;;;34.5658;-78.7793;4;34.5658,-78.7793
+US;28461;Southport;North Carolina;NC;Brunswick;019;;;33.9654;-78.0359;4;33.9654,-78.0359
+US;28803;Asheville;North Carolina;NC;Buncombe;021;;;35.5393;-82.518;4;35.5393,-82.518
+US;28804;Asheville;North Carolina;NC;Buncombe;021;;;35.6374;-82.5646;4;35.6374,-82.5646
+US;28810;Asheville;North Carolina;NC;Buncombe;021;;;35.6203;-82.5286;4;35.6203,-82.5286
+US;28612;Connelly Springs;North Carolina;NC;Burke;023;;;35.7429;-81.5134;4;35.7429,-81.5134
+US;28637;Hildebran;North Carolina;NC;Burke;023;;;35.718;-81.4194;4;35.718,-81.4194
+US;28641;Jonas Ridge;North Carolina;NC;Burke;023;;;35.9726;-81.8948;4;35.9726,-81.8948
+US;28081;Kannapolis;North Carolina;NC;Cabarrus;025;;;35.502;-80.6359;4;35.502,-80.6359
+US;27212;Blanch;North Carolina;NC;Caswell;033;;;36.4664;-79.2755;4;36.4664,-79.2755
+US;27305;Milton;North Carolina;NC;Caswell;033;;;36.5158;-79.2087;4;36.5158,-79.2087
+US;28781;Topton;North Carolina;NC;Cherokee;039;;;35.2151;-83.6461;4;35.2151,-83.6461
+US;28906;Murphy;North Carolina;NC;Cherokee;039;;;35.1312;-84.0388;4;35.1312,-84.0388
+US;28909;Warne;North Carolina;NC;Clay;043;;;35.0024;-83.9045;4;35.0024,-83.9045
+US;28442;Hallsboro;North Carolina;NC;Columbus;047;;;34.3181;-78.6043;4;34.3181,-78.6043
+US;28456;Riegelwood;North Carolina;NC;Columbus;047;;;34.3471;-78.2575;4;34.3471,-78.2575
+US;28561;New Bern;North Carolina;NC;Craven;049;;;35.1037;-77.0759;4;35.1037,-77.0759
+US;27916;Aydlett;North Carolina;NC;Currituck;053;;;36.3045;-75.9029;4;36.3045,-75.9029
+US;27929;Currituck;North Carolina;NC;Currituck;053;;;36.4398;-76.0055;4;36.4398,-76.0055
+US;27294;Lexington;North Carolina;NC;Davidson;057;;;35.824;-80.2534;4;35.824,-80.2534
+US;27299;Linwood;North Carolina;NC;Davidson;057;;;35.7562;-80.3749;4;35.7562,-80.3749
+US;27373;Wallburg;North Carolina;NC;Davidson;057;;;36.0101;-80.1392;4;36.0101,-80.1392
+US;28458;Rose Hill;North Carolina;NC;Duplin;061;;;34.8235;-78.0166;4;34.8235,-78.0166
+US;27572;Rougemont;North Carolina;NC;Durham;063;;;36.2393;-78.9019;4;36.2393,-78.9019
+US;27023;Lewisville;North Carolina;NC;Forsyth;067;;;36.0967;-80.4206;4;36.0967,-80.4206
+US;27051;Walkertown;North Carolina;NC;Forsyth;067;;;36.18;-80.1629;4;36.18,-80.1629
+US;27102;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0323;-80.3962;4;36.0323,-80.3962
+US;27110;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;27115;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0999;-80.2442;4;36.0999,-80.2442
+US;27979;Sunbury;North Carolina;NC;Gates;073;;;36.4316;-76.6096;4;36.4316,-76.6096
+US;27522;Creedmoor;North Carolina;NC;Granville;077;;;36.1224;-78.6861;4;36.1224,-78.6861
+US;27528;Clayton;North Carolina;NC;Granville;077;;;35.6555;-78.4611;4;35.6555,-78.4611
+US;27342;Sedalia;North Carolina;NC;Guilford;081;;;36.0756;-79.6206;4;36.0756,-79.6206
+US;27420;Greensboro;North Carolina;NC;Guilford;081;;;36.113;-79.7759;4;36.113,-79.7759
+US;27438;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27499;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27887;Tillery;North Carolina;NC;Halifax;083;;;36.2352;-77.5026;4;36.2352,-77.5026
+US;28732;Fletcher;North Carolina;NC;Henderson;089;;;35.4499;-82.4966;4;35.4499,-82.4966
+US;28793;Hendersonville;North Carolina;NC;Henderson;089;;;35.2927;-82.5036;4;35.2927,-82.5036
+US;27818;Como;North Carolina;NC;Hertford;091;;;36.5015;-77.0094;4;36.5015,-77.0094
+US;28166;Troutman;North Carolina;NC;Iredell;097;;;35.6863;-80.8822;4;35.6863,-80.8822
+US;28625;Statesville;North Carolina;NC;Iredell;097;;;35.8651;-80.8858;4;35.8651,-80.8858
+US;28687;Statesville;North Carolina;NC;Iredell;097;;;35.7826;-80.8873;4;35.7826,-80.8873
+US;28788;Webster;North Carolina;NC;Jackson;099;;;35.3462;-83.2193;4;35.3462,-83.2193
+US;27555;Micro;North Carolina;NC;Johnston;101;;;35.5638;-78.2044;4;35.5638,-78.2044
+US;28504;Kinston;North Carolina;NC;Lenoir;107;;;35.206;-77.6576;4;35.206,-77.6576
+US;28572;Pink Hill;North Carolina;NC;Lenoir;107;;;35.0573;-77.6943;4;35.0573,-77.6943
+US;28168;Vale;North Carolina;NC;Lincoln;109;;;35.5188;-81.4589;4;35.5188,-81.4589
+US;28105;Matthews;North Carolina;NC;Mecklenburg;119;;;35.1149;-80.705;4;35.1149,-80.705
+US;28211;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1677;-80.7932;4;35.1677,-80.7932
+US;28229;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28253;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;27281;Jackson Springs;North Carolina;NC;Moore;125;;;35.2259;-79.6685;4;35.2259,-79.6685
+US;27803;Rocky Mount;North Carolina;NC;Nash;127;;;35.9238;-77.835;4;35.9238,-77.835
+US;28480;Wrightsville Beach;North Carolina;NC;New Hanover;129;;;34.2228;-77.7932;4;34.2228,-77.7932
+US;27862;Pendleton;North Carolina;NC;Northampton;131;;;36.4937;-77.1911;4;36.4937,-77.1911
+US;28445;Holly Ridge;North Carolina;NC;Onslow;133;;;34.4954;-77.555;4;34.4954,-77.555
+US;27243;Efland;North Carolina;NC;Orange;135;;;36.0912;-79.1884;4;36.0912,-79.1884
+US;27278;Hillsborough;North Carolina;NC;Orange;135;;;36.0756;-79.0914;4;36.0756,-79.0914
+US;27515;Chapel Hill;North Carolina;NC;Orange;135;;;35.9132;-79.0558;4;35.9132,-79.0558
+US;27599;Chapel Hill;North Carolina;NC;Orange;135;;;36.0525;-79.1077;4;36.0525,-79.1077
+US;27906;Elizabeth City;North Carolina;NC;Pasquotank;139;;;36.2854;-76.2133;4;36.2854,-76.2133
+US;27985;Winfall;North Carolina;NC;Perquimans;143;;;36.2193;-76.4667;4;36.2193,-76.4667
+US;27884;Stokes;North Carolina;NC;Pitt;147;;;35.7104;-77.2722;4;35.7104,-77.2722
+US;28782;Tryon;North Carolina;NC;Polk;149;;;35.2157;-82.2394;4;35.2157,-82.2394
+US;27370;Trinity;North Carolina;NC;Randolph;151;;;35.8429;-79.9902;4;35.8429,-79.9902
+US;28347;Hoffman;North Carolina;NC;Richmond;153;;;35.0326;-79.56;4;35.0326,-79.56
+US;28363;Marston;North Carolina;NC;Richmond;153;;;34.9882;-79.5823;4;34.9882,-79.5823
+US;28358;Lumberton;North Carolina;NC;Robeson;155;;;34.6293;-79.0083;4;34.6293,-79.0083
+US;28362;Marietta;North Carolina;NC;Robeson;155;;;34.3791;-79.1279;4;34.3791,-79.1279
+US;28328;Clinton;North Carolina;NC;Sampson;163;;;35.0151;-78.326;4;35.0151,-78.326
+US;28366;Newton Grove;North Carolina;NC;Sampson;163;;;35.2301;-78.3594;4;35.2301,-78.3594
+US;27053;Westfield;North Carolina;NC;Surry;171;;;36.4674;-80.3677;4;36.4674,-80.3677
+US;28702;Almond;North Carolina;NC;Swain;173;;;35.3698;-83.5652;4;35.3698,-83.5652
+US;28110;Monroe;North Carolina;NC;Union;179;;;35.0178;-80.5372;4;35.0178,-80.5372
+US;27537;Henderson;North Carolina;NC;Vance;181;;;36.36;-78.3906;4;36.36,-78.3906
+US;27512;Cary;North Carolina;NC;Wake;183;;;35.8084;-78.8395;4;35.8084,-78.8395
+US;27610;Raleigh;North Carolina;NC;Wake;183;;;35.7667;-78.6008;4;35.7667,-78.6008
+US;27612;Raleigh;North Carolina;NC;Wake;183;;;35.852;-78.6841;4;35.852,-78.6841
+US;27622;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27623;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27640;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27589;Warrenton;North Carolina;NC;Warren;185;;;36.3539;-78.1594;4;36.3539,-78.1594
+US;28365;Mount Olive;North Carolina;NC;Wayne;191;;;35.2109;-78.0983;4;35.2109,-78.0983
+US;28669;Roaring River;North Carolina;NC;Wilkes;193;;;36.1916;-81.0004;4;36.1916,-81.0004
+US;28636;Hiddenite;North Carolina;NC;Alexander;003;;;35.9504;-81.0487;4;35.9504,-81.0487
+US;28623;Ennice;North Carolina;NC;Alleghany;005;;;36.5253;-80.9771;4;36.5253,-80.9771
+US;28663;Piney Creek;North Carolina;NC;Alleghany;005;;;36.5276;-81.3019;4;36.5276,-81.3019
+US;28668;Roaring Gap;North Carolina;NC;Alleghany;005;;;36.3836;-81.0188;4;36.3836,-81.0188
+US;28615;Creston;North Carolina;NC;Ashe;009;;;36.45;-81.6506;4;36.45,-81.6506
+US;28693;Warrensville;North Carolina;NC;Ashe;009;;;36.4572;-81.5465;4;36.4572,-81.5465
+US;27814;Blounts Creek;North Carolina;NC;Beaufort;013;;;35.382;-76.925;4;35.382,-76.925
+US;28448;Kelly;North Carolina;NC;Bladen;017;;;34.4591;-78.2942;4;34.4591,-78.2942
+US;28404;Wilmington;North Carolina;NC;Brunswick;019;;;34.2257;-77.9447;4;34.2257,-77.9447
+US;28680;Morganton;North Carolina;NC;Burke;023;;;35.7507;-81.6953;4;35.7507,-81.6953
+US;28027;Concord;North Carolina;NC;Cabarrus;025;;;35.4141;-80.6162;4;35.4141,-80.6162
+US;28611;Collettsville;North Carolina;NC;Caldwell;027;;;35.9946;-81.7266;4;35.9946,-81.7266
+US;27921;Camden;North Carolina;NC;Camden;029;;;36.325;-76.15;4;36.325,-76.15
+US;27559;Moncure;North Carolina;NC;Chatham;037;;;35.6306;-79.0839;4;35.6306,-79.0839
+US;27980;Tyner;North Carolina;NC;Chowan;041;;;36.2502;-76.6428;1;36.2502,-76.6428
+US;28424;Brunswick;North Carolina;NC;Columbus;047;;;34.2907;-78.6994;4;34.2907,-78.6994
+US;28533;Cherry Point;North Carolina;NC;Craven;049;;;34.9038;-76.9;1;34.9038,-76.9
+US;28306;Fayetteville;North Carolina;NC;Cumberland;051;;;35.0019;-78.9364;4;35.0019,-78.9364
+US;28391;Stedman;North Carolina;NC;Cumberland;051;;;35.0347;-78.6949;4;35.0347,-78.6949
+US;27947;Jarvisburg;North Carolina;NC;Currituck;053;;;36.1714;-75.8621;4;36.1714,-75.8621
+US;27948;Kill Devil Hills;North Carolina;NC;Dare;055;;;36.0088;-75.6757;4;36.0088,-75.6757
+US;27239;Denton;North Carolina;NC;Davidson;057;;;35.6196;-80.0959;4;35.6196,-80.0959
+US;27014;Cooleemee;North Carolina;NC;Davie;059;;;35.8104;-80.5559;4;35.8104,-80.5559
+US;28508;Albertson;North Carolina;NC;Duplin;061;;;35.1176;-77.8515;4;35.1176,-77.8515
+US;27701;Durham;North Carolina;NC;Durham;063;;;35.9967;-78.8966;4;35.9967,-78.8966
+US;27708;Durham;North Carolina;NC;Durham;063;;;36.0287;-78.924;4;36.0287,-78.924
+US;27712;Durham;North Carolina;NC;Durham;063;;;36.0918;-78.9299;4;36.0918,-78.9299
+US;27802;Rocky Mount;North Carolina;NC;Edgecombe;065;;;35.9356;-77.7808;4;35.9356,-77.7808
+US;27050;Tobaccoville;North Carolina;NC;Forsyth;067;;;36.2336;-80.3915;4;36.2336,-80.3915
+US;27157;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0275;-80.2073;4;36.0275,-80.2073
+US;28032;Cramerton;North Carolina;NC;Gaston;071;;;35.2396;-81.0831;4;35.2396,-81.0831
+US;28052;Gastonia;North Carolina;NC;Gaston;071;;;35.2449;-81.2194;4;35.2449,-81.2194
+US;28054;Gastonia;North Carolina;NC;Gaston;071;;;35.2495;-81.133;4;35.2495,-81.133
+US;28101;Mc Adenville;North Carolina;NC;Gaston;071;;;35.2578;-81.0788;1;35.2578,-81.0788
+US;27262;High Point;North Carolina;NC;Guilford;081;;;35.9734;-80.0107;4;35.9734,-80.0107
+US;27268;High Point;North Carolina;NC;Guilford;081;;;35.9698;-79.9936;;35.9698,-79.9936
+US;27401;Greensboro;North Carolina;NC;Guilford;081;;;36.0697;-79.7682;4;36.0697,-79.7682
+US;28334;Dunn;North Carolina;NC;Harnett;085;;;35.3165;-78.6151;4;35.3165,-78.6151
+US;28760;Naples;North Carolina;NC;Henderson;089;;;35.3817;-82.4813;4;35.3817,-82.4813
+US;27910;Ahoskie;North Carolina;NC;Hertford;091;;;36.2957;-76.9966;4;36.2957,-76.9966
+US;27824;Engelhard;North Carolina;NC;Hyde;095;;;35.5149;-76.0303;4;35.5149,-76.0303
+US;27875;Scranton;North Carolina;NC;Hyde;095;;;35.4717;-76.4951;4;35.4717,-76.4951
+US;27593;Wilsons Mills;North Carolina;NC;Johnston;101;;;35.5907;-78.3607;4;35.5907,-78.3607
+US;28737;Glenwood;North Carolina;NC;McDowell;111;;;35.7387;-82.0595;4;35.7387,-82.0595
+US;28749;Little Switzerland;North Carolina;NC;McDowell;111;;;35.8493;-82.0904;4;35.8493,-82.0904
+US;28775;Scaly Mountain;North Carolina;NC;Macon;113;;;35.0311;-83.3274;4;35.0311,-83.3274
+US;28754;Mars Hill;North Carolina;NC;Madison;115;;;35.8528;-82.5254;4;35.8528,-82.5254
+US;27846;Jamesville;North Carolina;NC;Martin;117;;;35.7839;-76.8983;4;35.7839,-76.8983
+US;28204;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2132;-80.8231;4;35.2132,-80.8231
+US;28265;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28275;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28315;Aberdeen;North Carolina;NC;Moore;125;;;35.1216;-79.445;4;35.1216,-79.445
+US;28326;Cameron;North Carolina;NC;Moore;125;;;35.3106;-79.3472;4;35.3106,-79.3472
+US;27815;Rocky Mount;North Carolina;NC;Nash;127;;;35.8979;-77.7935;4;35.8979,-77.7935
+US;27891;Whitakers;North Carolina;NC;Nash;127;;;36.0758;-77.7167;4;36.0758,-77.7167
+US;28409;Wilmington;North Carolina;NC;New Hanover;129;;;34.1663;-77.8723;4;34.1663,-77.8723
+US;28411;Wilmington;North Carolina;NC;New Hanover;129;;;34.3033;-77.8039;4;34.3033,-77.8039
+US;27842;Henrico;North Carolina;NC;Northampton;131;;;36.5274;-77.8546;4;36.5274,-77.8546
+US;27877;Severn;North Carolina;NC;Northampton;131;;;36.5152;-77.1897;4;36.5152,-77.1897
+US;28584;Swansboro;North Carolina;NC;Onslow;133;;;34.6991;-77.135;4;34.6991,-77.135
+US;27827;Falkland;North Carolina;NC;Pitt;147;;;35.6966;-77.5132;4;35.6966,-77.5132
+US;27858;Greenville;North Carolina;NC;Pitt;147;;;35.5866;-77.3485;4;35.5866,-77.3485
+US;27230;Cedar Falls;North Carolina;NC;Randolph;151;;;35.8028;-79.8797;4;35.8028,-79.8797
+US;28360;Lumberton;North Carolina;NC;Robeson;155;;;34.6697;-79.1084;4;34.6697,-79.1084
+US;28369;Orrum;North Carolina;NC;Robeson;155;;;34.4473;-79.031;4;34.4473,-79.031
+US;27326;Ruffin;North Carolina;NC;Rockingham;157;;;36.4428;-79.5606;4;36.4428,-79.5606
+US;28147;Salisbury;North Carolina;NC;Rowan;159;;;35.6817;-80.5615;4;35.6817,-80.5615
+US;28720;Chimney Rock;North Carolina;NC;Rutherford;161;;;35.4369;-82.2417;4;35.4369,-82.2417
+US;27021;King;North Carolina;NC;Stokes;169;;;36.295;-80.356;4;36.295,-80.356
+US;27046;Sandy Ridge;North Carolina;NC;Stokes;169;;;36.49;-80.0859;4;36.49,-80.0859
+US;27031;White Plains;North Carolina;NC;Surry;171;;;36.3994;-80.7081;4;36.3994,-80.7081
+US;28747;Lake Toxaway;North Carolina;NC;Transylvania;175;;;35.1451;-82.9191;4;35.1451,-82.9191
+US;27588;Wake Forest;North Carolina;NC;Wake;183;;;35.9731;-78.4508;4;35.9731,-78.4508
+US;27607;Raleigh;North Carolina;NC;Wake;183;;;35.8014;-78.6877;4;35.8014,-78.6877
+US;27611;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27620;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27634;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27658;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27551;Macon;North Carolina;NC;Warren;185;;;36.507;-77.9975;4;36.507,-77.9975
+US;27962;Plymouth;North Carolina;NC;Washington;187;;;35.8508;-76.7431;4;35.8508,-76.7431
+US;28698;Zionville;North Carolina;NC;Watauga;189;;;36.3194;-81.7476;4;36.3194,-81.7476
+US;27531;Goldsboro;North Carolina;NC;Wayne;191;;;35.343;-77.9644;4;35.343,-77.9644
+US;28670;Ronda;North Carolina;NC;Wilkes;193;;;36.2059;-80.927;4;36.2059,-80.927
+US;27893;Wilson;North Carolina;NC;Wilson;195;;;35.727;-77.9227;4;35.727,-77.9227
+US;27359;Swepsonville;North Carolina;NC;Alamance;001;;;36.0214;-79.3574;4;36.0214,-79.3574
+US;28681;Taylorsville;North Carolina;NC;Alexander;003;;;35.901;-81.2124;4;35.901,-81.2124
+US;28694;West Jefferson;North Carolina;NC;Ashe;009;;;36.3776;-81.4872;4;36.3776,-81.4872
+US;28604;Banner Elk;North Carolina;NC;Avery;011;;;36.1705;-81.8412;4;36.1705,-81.8412
+US;28622;Elk Park;North Carolina;NC;Avery;011;;;36.1646;-81.9639;4;36.1646,-81.9639
+US;27808;Bath;North Carolina;NC;Beaufort;013;;;35.4702;-76.7715;4;35.4702,-76.7715
+US;27810;Belhaven;North Carolina;NC;Beaufort;013;;;35.4458;-76.6391;4;35.4458,-76.6391
+US;27860;Pantego;North Carolina;NC;Beaufort;013;;;35.6201;-76.6988;4;35.6201,-76.6988
+US;28332;Dublin;North Carolina;NC;Bladen;017;;;34.6568;-78.7264;4;34.6568,-78.7264
+US;28392;Tar Heel;North Carolina;NC;Bladen;017;;;34.7465;-78.8134;4;34.7465,-78.8134
+US;28459;Shallotte;North Carolina;NC;Brunswick;019;;;33.9334;-78.4129;4;33.9334,-78.4129
+US;28465;Oak Island;North Carolina;NC;Brunswick;019;;;33.9161;-78.1255;4;33.9161,-78.1255
+US;28479;Winnabow;North Carolina;NC;Brunswick;019;;;34.1553;-78.0558;4;34.1553,-78.0558
+US;28711;Black Mountain;North Carolina;NC;Buncombe;021;;;35.5986;-82.2902;4;35.5986,-82.2902
+US;28728;Enka;North Carolina;NC;Buncombe;021;;;35.4988;-82.708;4;35.4988,-82.708
+US;28770;Ridgecrest;North Carolina;NC;Buncombe;021;;;35.6186;-82.3005;4;35.6186,-82.3005
+US;28628;Glen Alpine;North Carolina;NC;Burke;023;;;35.729;-81.7793;4;35.729,-81.7793
+US;28666;Icard;North Carolina;NC;Burke;023;;;35.7274;-81.4706;4;35.7274,-81.4706
+US;28075;Harrisburg;North Carolina;NC;Cabarrus;025;;;35.3247;-80.6594;4;35.3247,-80.6594
+US;28633;Lenoir;North Carolina;NC;Caldwell;027;;;35.914;-81.539;4;35.914,-81.539
+US;28667;Rhodhiss;North Carolina;NC;Caldwell;027;;;35.7772;-81.4302;4;35.7772,-81.4302
+US;27976;South Mills;North Carolina;NC;Camden;029;;;36.4536;-76.3033;4;36.4536,-76.3033
+US;28602;Hickory;North Carolina;NC;Catawba;035;;;35.6884;-81.3612;4;35.6884,-81.3612
+US;28609;Catawba;North Carolina;NC;Catawba;035;;;35.6757;-81.0503;4;35.6757,-81.0503
+US;28613;Conover;North Carolina;NC;Catawba;035;;;35.7313;-81.2165;4;35.7313,-81.2165
+US;28650;Maiden;North Carolina;NC;Catawba;035;;;35.5759;-81.1745;4;35.5759,-81.1745
+US;28905;Marble;North Carolina;NC;Cherokee;039;;;35.1475;-83.9381;4;35.1475,-83.9381
+US;28902;Brasstown;North Carolina;NC;Clay;043;;;35.0261;-83.9567;4;35.0261,-83.9567
+US;28150;Shelby;North Carolina;NC;Cleveland;045;;;35.312;-81.5568;4;35.312,-81.5568
+US;28151;Shelby;North Carolina;NC;Cleveland;045;;;35.2924;-81.5356;4;35.2924,-81.5356
+US;28438;Evergreen;North Carolina;NC;Columbus;047;;;34.4204;-78.8947;4;34.4204,-78.8947
+US;28532;Havelock;North Carolina;NC;Craven;049;;;34.8968;-76.89;4;34.8968,-76.89
+US;28560;New Bern;North Carolina;NC;Craven;049;;;35.1204;-76.9842;4;35.1204,-76.9842
+US;28308;Pope Army Airfield;North Carolina;NC;Cumberland;051;;;35.0635;-78.8943;1;35.0635,-78.8943
+US;28395;Wade;North Carolina;NC;Cumberland;051;;;35.1606;-78.7249;4;35.1606,-78.7249
+US;27351;Southmont;North Carolina;NC;Davidson;057;;;35.6605;-80.2836;4;35.6605,-80.2836
+US;27028;Mocksville;North Carolina;NC;Davie;059;;;35.922;-80.537;4;35.922,-80.537
+US;27703;Durham;North Carolina;NC;Durham;063;;;35.9781;-78.8439;4;35.9781,-78.8439
+US;27707;Durham;North Carolina;NC;Durham;063;;;35.9631;-78.9315;4;35.9631,-78.9315
+US;27722;Durham;North Carolina;NC;Durham;063;;;35.994;-78.8986;4;35.994,-78.8986
+US;27012;Clemmons;North Carolina;NC;Forsyth;067;;;36.0341;-80.3962;4;36.0341,-80.3962
+US;27113;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0999;-80.2442;4;36.0999,-80.2442
+US;27120;Winston-Salem;North Carolina;NC;Forsyth;067;;;36.0999;-80.2442;4;36.0999,-80.2442
+US;28034;Dallas;North Carolina;NC;Gaston;071;;;35.3349;-81.1862;4;35.3349,-81.1862
+US;28035;Davidson;North Carolina;NC;Gaston;071;;;35.4993;-80.8486;4;35.4993,-80.8486
+US;28055;Gastonia;North Carolina;NC;Gaston;071;;;35.284;-81.1897;4;35.284,-81.1897
+US;27403;Greensboro;North Carolina;NC;Guilford;081;;;36.0641;-79.8202;4;36.0641,-79.8202
+US;27415;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27417;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;27419;Greensboro;North Carolina;NC;Guilford;081;;;36.0726;-79.792;4;36.0726,-79.792
+US;28716;Canton;North Carolina;NC;Haywood;087;;;35.5127;-82.8413;4;35.5127,-82.8413
+US;28738;Hazelwood;North Carolina;NC;Haywood;087;;;35.4683;-83.0028;4;35.4683,-83.0028
+US;28724;Dana;North Carolina;NC;Henderson;089;;;35.3293;-82.3754;4;35.3293,-82.3754
+US;28790;Zirconia;North Carolina;NC;Henderson;089;;;35.2153;-82.4574;4;35.2153,-82.4574
+US;27942;Harrellsville;North Carolina;NC;Hertford;091;;;36.2866;-76.7767;4;36.2866,-76.7767
+US;28660;Olin;North Carolina;NC;Iredell;097;;;35.9593;-80.8511;4;35.9593,-80.8511
+US;28783;Tuckasegee;North Carolina;NC;Jackson;099;;;35.2599;-83.0749;4;35.2599,-83.0749
+US;27504;Benson;North Carolina;NC;Johnston;101;;;35.4037;-78.5421;4;35.4037,-78.5421
+US;27524;Four Oaks;North Carolina;NC;Johnston;101;;;35.404;-78.4153;4;35.404,-78.4153
+US;28522;Comfort;North Carolina;NC;Jones;103;;;35.0051;-77.5231;4;35.0051,-77.5231
+US;28525;Deep Run;North Carolina;NC;Lenoir;107;;;35.163;-77.6928;4;35.163,-77.6928
+US;28092;Lincolnton;North Carolina;NC;Lincoln;109;;;35.4851;-81.1818;4;35.4851,-81.1818
+US;28741;Highlands;North Carolina;NC;Macon;113;;;35.0705;-83.216;4;35.0705,-83.216
+US;27840;Hamilton;North Carolina;NC;Martin;117;;;35.9446;-77.2097;4;35.9446,-77.2097
+US;28130;Paw Creek;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28227;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1936;-80.6846;4;35.1936,-80.6846
+US;28230;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28250;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.2271;-80.8431;4;35.2271,-80.8431
+US;28273;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.1287;-80.9338;4;35.1287,-80.9338
+US;28290;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28299;Charlotte;North Carolina;NC;Mecklenburg;119;;;35.26;-80.8042;4;35.26,-80.8042
+US;28777;Spruce Pine;North Carolina;NC;Mitchell;121;;;35.906;-82.0705;4;35.906,-82.0705
+US;27306;Mount Gilead;North Carolina;NC;Montgomery;123;;;35.2274;-79.9871;4;35.2274,-79.9871
+US;27242;Eagle Springs;North Carolina;NC;Moore;125;;;35.336;-79.631;4;35.336,-79.631
+US;27259;Highfalls;North Carolina;NC;Moore;125;;;35.4921;-79.479;1;35.4921,-79.479
+US;27866;Pleasant Hill;North Carolina;NC;Northampton;131;;;36.5212;-77.5192;4;36.5212,-77.5192
+US;28539;Hubert;North Carolina;NC;Onslow;133;;;34.6993;-77.2079;4;34.6993,-77.2079
+US;27833;Greenville;North Carolina;NC;Pitt;147;;;35.5804;-77.3926;4;35.5804,-77.3926
+US;28722;Columbus;North Carolina;NC;Polk;149;;;35.2532;-82.1971;4;35.2532,-82.1971
+US;27205;Asheboro;North Carolina;NC;Randolph;151;;;35.6396;-79.8509;4;35.6396,-79.8509
+US;28330;Cordova;North Carolina;NC;Richmond;153;;;34.9129;-79.822;4;34.9129,-79.822
+US;27288;Eden;North Carolina;NC;Rockingham;157;;;36.5;-79.759;4;36.5,-79.759
+US;27013;Cleveland;North Carolina;NC;Rowan;159;;;35.7374;-80.7113;4;35.7374,-80.7113
+US;28159;Spencer;North Carolina;NC;Rowan;159;;;35.6917;-80.4327;4;35.6917,-80.4327
+US;28385;Salemburg;North Carolina;NC;Sampson;163;;;35.0515;-78.4714;4;35.0515,-78.4714
+US;28009;Badin;North Carolina;NC;Stanly;167;;;35.406;-80.1167;4;35.406,-80.1167
+US;28129;Oakboro;North Carolina;NC;Stanly;167;;;35.246;-80.3413;4;35.246,-80.3413
+US;27049;Toast;North Carolina;NC;Surry;171;;;36.5004;-80.6265;4;36.5004,-80.6265
+US;28712;Brevard;North Carolina;NC;Transylvania;175;;;35.2208;-82.7404;4;35.2208,-82.7404
+US;27544;Kittrell;North Carolina;NC;Vance;181;;;36.2042;-78.4241;4;36.2042,-78.4241
+US;27523;Apex;North Carolina;NC;Wake;183;;;35.7225;-78.8408;4;35.7225,-78.8408
+US;27560;Morrisville;North Carolina;NC;Wake;183;;;35.8344;-78.8466;4;35.8344,-78.8466
+US;27571;Rolesville;North Carolina;NC;Wake;183;;;35.9156;-78.4658;4;35.9156,-78.4658
+US;27602;Raleigh;North Carolina;NC;Wake;183;;;35.7587;-78.6711;4;35.7587,-78.6711
+US;27695;Raleigh;North Carolina;NC;Wake;183;;;35.7977;-78.6253;4;35.7977,-78.6253
+US;27530;Goldsboro;North Carolina;NC;Wayne;191;;;35.3683;-78.0929;4;35.3683,-78.0929
+US;27863;Pikeville;North Carolina;NC;Wayne;191;;;35.4929;-77.9578;4;35.4929,-77.9578
+US;28578;Seven Springs;North Carolina;NC;Wayne;191;;;35.2105;-77.9146;4;35.2105,-77.9146
+US;28651;Millers Creek;North Carolina;NC;Wilkes;193;;;36.2119;-81.2485;4;36.2119,-81.2485
+US;27894;Wilson;North Carolina;NC;Wilson;195;;;35.7158;-77.9043;4;35.7158,-77.9043

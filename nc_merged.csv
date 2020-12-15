@@ -1,0 +1,88 @@
+,zip,place,county,latitude,longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,27704,Durham,Durham,36.0383,-78.8764,1.0,Art Gallery,Concert Hall,Brewery,Science Museum,Bar,Music Venue,Gastropub,History Museum,Historic Site,Arts & Crafts Store
+1,27710,Durham,Durham,36.0512,-78.8577,3.0,Science Museum,Arts & Crafts Store,Brewery,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar,Gastropub
+2,27711,Durham,Durham,36.0512,-78.8577,3.0,Science Museum,Arts & Crafts Store,Brewery,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar,Gastropub
+3,27529,Garner,Wake,35.6813,-78.5975,5.0,Music Venue,Wings Joint,Sports Bar,Art Gallery,Brewery,Restaurant,American Restaurant,Steakhouse,Speakeasy,General Entertainment
+4,27615,Raleigh,Wake,35.8887,-78.6393,4.0,Brewery,Art Gallery,Pizza Place,Pub,American Restaurant,Bar,Sandwich Place,Japanese Restaurant,Beer Store,Speakeasy
+5,27617,Raleigh,Wake,35.9034,-78.7447,1.0,Art Gallery,Music Venue,Brewery,American Restaurant,Cocktail Bar,Irish Pub,Sports Bar,Jazz Club,Wings Joint,Southern / Soul Food Restaurant
+6,27636,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+7,27690,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+8,27699,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+10,27519,Cary,Wake,35.8072,-78.887,5.0,Music Venue,Art Gallery,Brewery,American Restaurant,Speakeasy,Rock Club,New American Restaurant,Event Space,Gastropub,College Arts Building
+11,27526,Fuquay Varina,Wake,35.58,-78.7908,4.0,Art Gallery,Brewery,Beer Garden,History Museum,Music Venue,Event Space,Deli / Bodega,Distillery,Dive Bar,Wings Joint
+12,27591,Wendell,Wake,35.798,-78.3926,4.0,Brewery,Art Gallery,Wings Joint,College Arts Building,History Museum,Historic Site,Grocery Store,General Entertainment,Gay Bar,Gastropub
+13,27619,Raleigh,Wake,35.8515,-78.6314,1.0,Music Venue,American Restaurant,Art Gallery,Bar,Brewery,Sports Bar,Italian Restaurant,Pub,BBQ Joint,Beer Store
+14,27627,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+15,27668,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+16,27705,Durham,Durham,36.0218,-78.9478,1.0,Bar,Art Gallery,Concert Hall,Brewery,Historic Site,Museum,Music Venue,Burger Joint,History Museum,Hookah Bar
+17,27709,Durham,Durham,36.0512,-78.8577,3.0,Science Museum,Arts & Crafts Store,Brewery,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar,Gastropub
+18,27502,Apex,Wake,35.7225,-78.8408,0.0,Art Gallery,Brewery,Music Venue,Pub,Irish Pub,Italian Restaurant,Bar,Dive Bar,Concert Hall,Deli / Bodega
+19,27539,Apex,Wake,35.7225,-78.8408,0.0,Art Gallery,Brewery,Music Venue,Pub,Irish Pub,Italian Restaurant,Bar,Dive Bar,Concert Hall,Deli / Bodega
+20,27545,Knightdale,Wake,35.7789,-78.4898,4.0,Brewery,Art Gallery,Wings Joint,Distillery,College Arts Building,History Museum,Historic Site,Grocery Store,General Entertainment,Gay Bar
+21,27592,Willow Spring,Wake,35.547,-78.6717,5.0,Music Venue,Wings Joint,Hotel,History Museum,Historic Site,Grocery Store,General Entertainment,Gay Bar,Gastropub,Event Space
+22,27606,Raleigh,Wake,35.7645,-78.7112,1.0,Art Gallery,Pub,Brewery,Sports Bar,Music Venue,Bar,Italian Restaurant,Pizza Place,Dive Bar,Hookah Bar
+23,27613,Raleigh,Wake,35.8949,-78.7051,1.0,Music Venue,Pizza Place,Brewery,Sports Bar,Jazz Club,Japanese Restaurant,American Restaurant,Theater,Bar,Event Space
+24,27614,Raleigh,Wake,35.9457,-78.6433,4.0,Brewery,Art Gallery,Wings Joint,College Arts Building,History Museum,Historic Site,Grocery Store,General Entertainment,Gay Bar,Gastropub
+25,27616,Raleigh,Wake,35.8673,-78.5381,5.0,Music Venue,Art Gallery,Brewery,American Restaurant,Art Museum,Event Space,Deli / Bodega,Distillery,Dive Bar,Gay Bar
+26,27650,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+27,27656,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+28,27675,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+29,27697,Raleigh,Wake,35.7721,-78.6386,1.0,Bar,Art Gallery,Brewery,Music Venue,Cocktail Bar,Sports Bar,American Restaurant,History Museum,Art Museum,Beer Garden
+30,27717,Durham,Durham,36.0512,-78.8577,3.0,Science Museum,Arts & Crafts Store,Brewery,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar,Gastropub
+31,27510,Carrboro,Orange,35.9055,-79.0901,1.0,Bar,Brewery,Art Gallery,American Restaurant,Music Venue,Museum,Cocktail Bar,Asian Restaurant,Sandwich Place,Distillery
+32,27516,Chapel Hill,Orange,35.9162,-79.0999,1.0,Bar,Brewery,Art Gallery,American Restaurant,Asian Restaurant,Music Venue,Cocktail Bar,Sandwich Place,Wine Bar,Dive Bar
+33,27517,Chapel Hill,Orange,35.9182,-79.0035,1.0,Art Gallery,Brewery,Sports Bar,Museum,American Restaurant,Bar,Pub,Art Museum,Asian Restaurant,Cocktail Bar
+34,27511,Cary,Wake,35.7641,-78.7786,1.0,Brewery,Art Gallery,Pub,Music Venue,Sports Bar,American Restaurant,Breakfast Spot,Italian Restaurant,Performing Arts Venue,History Museum
+35,27601,Raleigh,Wake,35.7727,-78.6324,1.0,Art Gallery,Bar,Brewery,Music Venue,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Rock Club,Mexican Restaurant
+36,27621,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+38,27715,Durham,Durham,36.0512,-78.8577,3.0,Science Museum,Arts & Crafts Store,Brewery,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar,Gastropub
+39,27513,Cary,Wake,35.7956,-78.7941,1.0,Art Gallery,Brewery,Music Venue,Sports Bar,American Restaurant,Breakfast Spot,Performing Arts Venue,Cocktail Bar,History Museum,Cajun / Creole Restaurant
+40,27626,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+41,27518,Cary,Wake,35.7299,-78.7735,5.0,Music Venue,Brewery,Pub,Art Gallery,Italian Restaurant,Sports Bar,Distillery,College Basketball Court,Concert Hall,Deli / Bodega
+42,27603,Raleigh,Wake,35.7076,-78.6563,1.0,Bar,Music Venue,Brewery,Steakhouse,Sports Bar,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar
+43,27628,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+44,27629,Raleigh,Wake,35.8175,-78.5524,5.0,Music Venue,Brewery,Art Gallery,Wings Joint,Sports Bar,Hookah Bar,Distillery,Southern / Soul Food Restaurant,Gastropub,College Arts Building
+45,27706,Durham,Durham,35.997,-78.9422,1.0,Art Gallery,Brewery,Bar,Cocktail Bar,Music Venue,Concert Hall,Sports Bar,Museum,Historic Site,Coffee Shop
+46,27514,Chapel Hill,Orange,35.9203,-79.0372,1.0,Bar,Brewery,Museum,Art Gallery,Sports Bar,Music Venue,American Restaurant,Asian Restaurant,Cocktail Bar,Art Museum
+47,27587,Wake Forest,Wake,35.9815,-78.5392,0.0,Art Gallery,Brewery,Music Venue,American Restaurant,Wine Bar,Deli / Bodega,Rock Club,Cocktail Bar,Bar,Beer Garden
+48,27597,Zebulon,Wake,35.8321,-78.3174,0.0,Art Gallery,Wings Joint,Coffee Shop,History Museum,Historic Site,Grocery Store,General Entertainment,Gay Bar,Gastropub,Event Space
+49,27604,Raleigh,Wake,35.8334,-78.5799,5.0,Art Gallery,Music Venue,Brewery,American Restaurant,Sports Bar,Distillery,Restaurant,Art Museum,Bar,Burger Joint
+50,27608,Raleigh,Wake,35.8077,-78.6463,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Italian Restaurant,Sports Bar,History Museum,Beer Garden
+51,27609,Raleigh,Wake,35.848,-78.6317,1.0,Music Venue,American Restaurant,Art Gallery,Brewery,Bar,Sports Bar,Italian Restaurant,BBQ Joint,Beer Store,Bowling Alley
+52,27625,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+53,27661,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+54,27698,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+55,27702,Durham,Durham,36.0512,-78.8577,3.0,Science Museum,Arts & Crafts Store,Brewery,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar,Gastropub
+56,27713,Durham,Durham,35.9112,-78.9178,5.0,Art Gallery,Music Venue,Brewery,Pub,Beer Store,Dive Bar,Concert Hall,Deli / Bodega,Distillery,Event Space
+57,27540,Holly Springs,Wake,35.6263,-78.8458,4.0,Brewery,Art Gallery,American Restaurant,Sports Bar,Liquor Store,Music Venue,Coffee Shop,Pub,Bar,Concert Hall
+58,27562,New Hill,Wake,35.6809,-78.9365,2.0,Museum,Wings Joint,Hotel,History Museum,Historic Site,Grocery Store,General Entertainment,Gay Bar,Gastropub,Event Space
+59,27605,Raleigh,Wake,35.7908,-78.653,1.0,Bar,Art Gallery,Brewery,Music Venue,Cocktail Bar,Sports Bar,American Restaurant,History Museum,Beer Garden,Art Museum
+60,27624,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+61,27635,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+62,27676,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+65,27278,Hillsborough,Orange,36.0756,-79.0914,0.0,Art Gallery,History Museum,Bar,Museum,Music Venue,Rock Club,Cocktail Bar,BBQ Joint,Beer Garden,Historic Site
+66,27515,Chapel Hill,Orange,35.9132,-79.0558,1.0,Bar,Brewery,Art Gallery,American Restaurant,Music Venue,Sports Bar,Museum,Asian Restaurant,Cocktail Bar,Art Museum
+67,27599,Chapel Hill,Orange,36.0525,-79.1077,0.0,Art Gallery,History Museum,Bar,Museum,Music Venue,Rock Club,Cocktail Bar,BBQ Joint,Beer Garden,Historic Site
+68,27512,Cary,Wake,35.8084,-78.8395,5.0,Music Venue,Pub,Art Gallery,New American Restaurant,Dive Bar,College Basketball Court,Concert Hall,Deli / Bodega,Distillery,Event Space
+69,27610,Raleigh,Wake,35.7667,-78.6008,1.0,Art Gallery,Music Venue,Bar,Brewery,Cocktail Bar,History Museum,American Restaurant,Beer Garden,BBQ Joint,Rock Club
+70,27612,Raleigh,Wake,35.852,-78.6841,1.0,American Restaurant,Brewery,Music Venue,Art Gallery,Cocktail Bar,Bar,Italian Restaurant,Beer Store,Pizza Place,Japanese Restaurant
+71,27622,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+72,27623,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+73,27640,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+74,27701,Durham,Durham,35.9967,-78.8966,1.0,Art Gallery,Brewery,Bar,Cocktail Bar,Music Venue,Concert Hall,Sports Bar,College Arts Building,Museum,Lounge
+75,27708,Durham,Durham,36.0287,-78.92399999999999,1.0,Bar,Art Gallery,Brewery,Cocktail Bar,Concert Hall,Music Venue,Historic Site,Sports Bar,Museum,Pizza Place
+76,27712,Durham,Durham,36.0918,-78.9299,5.0,Music Venue,Brewery,Art Gallery,Art Museum,Speakeasy,Wings Joint,Dive Bar,Concert Hall,Deli / Bodega,Distillery
+77,27588,Wake Forest,Wake,35.9731,-78.4508,4.0,Brewery,Music Venue,Bar,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar,Gastropub
+78,27607,Raleigh,Wake,35.8014,-78.6877,1.0,Art Gallery,Bar,Music Venue,Brewery,American Restaurant,Cocktail Bar,Sports Bar,Art Museum,Pub,Beer Garden
+79,27611,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+80,27620,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+81,27634,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+82,27658,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
+83,27703,Durham,Durham,35.9781,-78.8439,4.0,Art Gallery,Distillery,Brewery,Museum,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Dive Bar,Gastropub
+84,27707,Durham,Durham,35.9631,-78.9315,1.0,Art Gallery,Brewery,Cocktail Bar,Bar,Music Venue,Sports Bar,Pizza Place,College Arts Building,Concert Hall,Lounge
+85,27722,Durham,Durham,35.994,-78.8986,1.0,Art Gallery,Brewery,Bar,Cocktail Bar,Music Venue,Concert Hall,Sports Bar,College Arts Building,Museum,Lounge
+86,27523,Apex,Wake,35.7225,-78.8408,0.0,Art Gallery,Brewery,Music Venue,Pub,Irish Pub,Italian Restaurant,Bar,Dive Bar,Concert Hall,Deli / Bodega
+87,27560,Morrisville,Wake,35.8344,-78.8466,5.0,Art Gallery,Brewery,Music Venue,Hotel Bar,Speakeasy,New American Restaurant,Pub,American Restaurant,Sports Bar,Cajun / Creole Restaurant
+88,27571,Rolesville,Wake,35.9156,-78.4658,4.0,Art Gallery,Brewery,Music Venue,Wings Joint,Event Space,Concert Hall,Deli / Bodega,Distillery,Dive Bar,Gastropub
+89,27602,Raleigh,Wake,35.7587,-78.6711,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,Sports Bar,History Museum,American Restaurant,Art Museum,Beer Garden
+90,27695,Raleigh,Wake,35.7977,-78.6253,1.0,Bar,Art Gallery,Music Venue,Brewery,Cocktail Bar,American Restaurant,Sports Bar,History Museum,Beer Garden,Art Museum
